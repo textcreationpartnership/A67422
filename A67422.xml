@@ -1,0 +1,626 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Room for the cobler of Gloucester and his wife with several cartloads of abominable irregular, pitiful stinking priests : as also a demonstration of their calling after the manner of the Church of Rome, but not according to Magna Charta, the rule of the Gospel : whereunto is added a parallel between the honour of a Lord Bishop, and the honour of a cobler, the cobler being proved the more more honourable person.</title>
+            <author>Wallis, Ralph, d. 1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 94 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67422</idno>
+            <idno type="STC">Wing W619</idno>
+            <idno type="STC">ESTC R17872</idno>
+            <idno type="EEBO-CITATION">12211569</idno>
+            <idno type="OCLC">ocm 12211569</idno>
+            <idno type="VID">56314</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56314)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 904:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Room for the cobler of Gloucester and his wife with several cartloads of abominable irregular, pitiful stinking priests : as also a demonstration of their calling after the manner of the Church of Rome, but not according to Magna Charta, the rule of the Gospel : whereunto is added a parallel between the honour of a Lord Bishop, and the honour of a cobler, the cobler being proved the more more honourable person.</title>
+                  <author>Wallis, Ralph, d. 1669.</author>
+               </titleStmt>
+               <extent>40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Signed at end: Ralph Wallis.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Anti-Catholicism --  England.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56314:1"/>
+            <pb facs="tcp:56314:1"/>
+            <p>ROOM FOR THE Cobler of Glouceſter AND HIS WIFE: With ſeveral Cartloads of Abominable Irregular, pitiful ſtinking Prieſts; AS ALSO A Demonſtration of their Calling after the manner of the Church of <hi>Rome;</hi> but not according to <hi>Magna Charta,</hi> the Rule of the Goſpel.</p>
+            <p>Whereunto is Added, A PARALLEL Between the Honour of a Lord <hi>Biſhop,</hi> and the Honour of a <hi>COBLER;</hi> the <hi>COBLER</hi> being proved the more <hi>Honourable Perſon.</hi>
+            </p>
+            <p>Printed for the Author, 1668.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:56314:2"/>
+            <pb facs="tcp:56314:2"/>
+            <head>The Epiſtle Dedicatory:</head>
+            <opener>
+               <salute>To my Dear and Loving Wife.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>IFE, in my <hi>Epiſtles</hi> to my two former Books I was very large; the Porch was too big for the Houſe: you ſhall have that fault mended in this, and I ſhall only intreat you to accept of the Dedication of it; not knowing any Perſon whom I love more than your ſelf; nor any to whom I am more indebted. Thus in few words I take my leave, and reſt</p>
+            <closer>
+               <signed>Your Aſſured Loving Husband, R. Wallis.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:56314:3"/>
+            <head>Room for the Cobler of Glouceſter and his Wife.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ife, being willing to have a little more diſcourſe with you, I think it not amiſs, if we and our Children ſing a <hi>Tantrum.</hi>
+            </p>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>What do you mean by a <hi>Tan<g ref="char:EOLhyphen"/>trum,</hi> Husband?</p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>Wife, I borrow that word of a Welchman, who made this requeſt to his wife; <hi>Market, thee go me to Quire Einſome, and hear my Poy Ropin ſing two three Tantrums:</hi> from whence in <hi>Herefordſhire</hi> they call <hi>Anthems Tantrums.</hi>
+               </p>
+               <p>To the Tune of <hi>Room for Cuckolds:</hi> It will be thought a ſtrange tune, but it will be as ſuitable to us, as the tune of <hi>Tory Rory Betty,</hi> which they plaid upon their Organs at <hi>Oxford:</hi> A ſweet <hi>Tantrum!</hi>
+               </p>
+               <lg>
+                  <l>Room for Prelates, here comes a Company;</l>
+                  <l>Room for Prelates, and ev'ry Coat-Card;</l>
+                  <l>Arcbiſhops and Biſhops, Archdeacons and Deans;</l>
+                  <l>Room for Prelates, and for the Black Guard.</l>
+                  <l>Cathedrals and Chapters, with Authems and Raptures,</l>
+                  <l>And all the Hierarchical Rabble,</l>
+                  <l>With all of that ſort, that make as good ſport</l>
+                  <l>In the Chore, as a Fool with his Babble:</l>
+                  <l>Prieſts, Patrons, and Rectors, with all ſuch Church-Hectors,</l>
+                  <l>Which in the wide Synagogue roar it;</l>
+                  <l>Clerks, Curates, and Viccars, that drink off all Liquors,</l>
+                  <l>And then bid their Hoſteſſes ſcore it.</l>
+                  <pb n="5" facs="tcp:56314:3"/>
+                  <l>Prebends and Chanters, and Choristers, Ranters,</l>
+                  <l>That ſing by the Rule of <hi>Sol Fa,</hi>
+                  </l>
+                  <l>Officials and Doctors, and Chanc'lors and Prectors,</l>
+                  <l>And room for <hi>Et caetera.</hi>
+                  </l>
+                  <l>Room for the chief Singers, that with foot and fingers</l>
+                  <l>Do bleat it like Oxen and Calves;</l>
+                  <l>For Prieſt and for Clark, that grope in the dark.</l>
+                  <l>And ſing all their Catches by halves:</l>
+                  <l>Thoſe Lack-Latin Drones, and Learned Sir <hi>Johns,</hi>
+                  </l>
+                  <l>That daſh it with Blur and with Blot,</l>
+                  <l>Surrogates, Regiſters, Notaries, Paritors,</l>
+                  <l>And all the Knaves of a Knot.</l>
+                  <l>Bellmen and Sextons, with whom we were vext once,</l>
+                  <l>That live by digging and begging,</l>
+                  <l>With all the Church-Rabble belonging to Babel,</l>
+                  <l>That run juſt like Witches a hagging.</l>
+                  <l>Exorcists with Croſſes, which come to our loſſes,</l>
+                  <l>And leave poor Souls in the lurch,</l>
+                  <l>By which men are ſcar'd to run with the Herd,</l>
+                  <l>For comp'ny, as Dogs go to Church.</l>
+                  <l>By night and by day, at ſmall Games they play,</l>
+                  <l>Pick <hi>Peter</hi>-Pence rather than fail;</l>
+                  <l>Brave Merechants they are, of great and ſmall Ware,</l>
+                  <l>And will deal from the Head to the Tail.</l>
+                  <l>Room for Phyſitians of <hi>Rome</hi>'s Inquiſitions,</l>
+                  <l>And all that's grown over with moſs:</l>
+                  <l>Room for Confeſſion, and holy Proceſſion,</l>
+                  <l>And the Devil that carries the Croſs.</l>
+                  <l>Room for Prelates, and for their company,</l>
+                  <l>Room for Prelates, and for their Spawn;</l>
+                  <l>Room for Dumb Dogs, and all Croaking Frogs,</l>
+                  <l>And Vermin hid under the Lawn.</l>
+                  <l>Room for Prelates, here comes a Company,</l>
+                  <l>All Brethren o'th' Black Robe and Region,</l>
+                  <l>That with the Herd run as right as a Gun,</l>
+                  <l>Like Pigs poſſeſt with a Legion.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>
+                  <pb n="6" facs="tcp:56314:4"/>Wife.</speaker>
+               <p>Husband, you know that you and I have had ſome Diſcourſes formerly, but among others, two eſpecially; one was by the fire, as many times poor folks do; the ſe<g ref="char:EOLhyphen"/>cond was when we went to bed for want of Coals and Can<g ref="char:EOLhyphen"/>dles: we thought no hurt to any, yet you, ſee what came of it, you were a Priſoner firſt in <hi>Weſtminſter,</hi> and brought before Noble Perſons at <hi>White Hall;</hi> four Seſſions you lay Priſoner in <hi>Newgate,</hi> once in <hi>Briſtol,</hi> four Aſſizes at the Bar in <hi>Glocester,</hi> once before the Lord <hi>Winſor:</hi> and in all Courts of Judicature, and perſons before whom you have been, you have been blamed ſtill for diſparaging and diſgracing the Kings <hi>Clergy,</hi> and the Kings <hi>Miniſtry.</hi> I could willingly ask you ſome Queſtions privately, but I would not have you ſpeak ſo loud that all <hi>England</hi> may hear you; I would willingly whiſper a word in your Ear.</p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>And I ſhall as willingly anſwer you Wife, pro<g ref="char:EOLhyphen"/>vided, that you do not ask me any red hot Queſtions; which if you do, I ſhall be afraid to anſwer you, for fear of burning my Lipps.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>Husband, I would have you be as careful as I am, and then I dare warrant you there will no hurt come of it: What was their meaning by ſaying you did diſgrace the Kings <hi>Clergy?</hi> How did you diſgrace them?</p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>Wife, Becauſe I brought ſome of them upon the Stage for their baſe fordid Carriage, as Drunkenneſs, Swearing, Whoring, and the like: My anſwer was to them, that they did more diſgrace the Kings Government, by Acting ſuch things, then I did by Speaking of it. But Wife, I can tell you of ſuch a parcel of Fellows which ſtill diſgrace the Kings Government and Miniſtry, as they call it.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>In your laſt Book Husband, you told me that you had ſix times ten which you would Load another time, what kind of fellows were they?</p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>Wife, for your ſatisfaction I'll tell you: Let the
+<pb n="7" facs="tcp:56314:4"/> Cart be ſet nearer: We will begin with the Pillars of the Church. And,</p>
+               <p>Firſt of all, with my Lord Arch-Biſhop of <hi>Canterbury,</hi> that Titularly Spiritual, and Practically Carnal Father, and his irreverend unbeſeeming words: Who when he went to viſit a young Lady of his Acquaintance, that had been newly Married, Addreſſed himſelf to her in words to this effect.</p>
+               <p>
+                  <hi>Madam are you with Child?</hi> She anſwered, <hi>No my Lord.</hi> The Arch-Biſhop replied, <hi>Then Madam you cannot be ſaved; for Women are only to be ſaved in Child-bearing.</hi>
+               </p>
+               <p>
+                  <hi>But Madam, are you willing to be with Child,</hi> ſaith the Arch-Biſhop? <hi>Do you do your beſt in order to it?</hi> The Lady replies, <hi>She could be glad of a Child: Then,</hi> ſaid the Arch-Biſhop, <hi>you may be ſaved; God will accept of the Will for the Deed:</hi> Here is a Cobling piece of Divinity puts me down quite: Here my Lord, turns Cobler.</p>
+               <p>What <hi>Metropolitanus primus totius Angliae</hi> turn Cob<g ref="char:EOLhyphen"/>ler? I could willingly beſtow two or three Stitches on him, to ſet him upright: But I doubt it will be but loſt labour, he's gone, ſo much aſide: But what will become of all Barren Women in this caſe? Why their comfort is, That if they do but deſire to have Children, they may be ſa<g ref="char:EOLhyphen"/>ved.</p>
+               <p>The Biſhop of <hi>Worceſter,</hi> at a Viſitation in <hi>Warwick</hi> the laſt Summer, in his Speech to the <hi>Clergy,</hi> affirms, <hi>That all Children Baptized are undeniably ſaved.</hi> And that <hi>The preſence of Chriſt in the Sacrament is not ſymbolical, but realiter</hi> (really) <hi>and that upon that account we give ado<g ref="char:EOLhyphen"/>ration.</hi>
+               </p>
+               <p>Doctor <hi>Croſs,</hi> Dean of <hi>Norwich,</hi> in a Sermon at <hi>Yar<g ref="char:EOLhyphen"/>mouth,</hi> ſaid, <hi>That it had been better that the Goſpel had not been Preached theſe twenty Years paſt, for now the People had ſo much knowledge, that when the Miniſter doth re<g ref="char:EOLhyphen"/>prove them, or endeavour to perſuade them, they are pre<g ref="char:EOLhyphen"/>ſently
+<pb n="8" facs="tcp:56314:5"/> able to Convince him by Scripture, which is not ſo ſet for Lay People.</hi>
+               </p>
+               <p>Doctor <hi>Cre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on</hi> Dean of <hi>Wells,</hi> that Court-drolling Prea<g ref="char:EOLhyphen"/>cher, preaching at <hi>White Hall</hi> out of this Text [<hi>Shew us a Sign</hi>] ſaid, <hi>That it was not the Papiſts that burned London;</hi> at which words he was ſtruck dumb, and, as it's conceived, choaked with a Lie in his throat, and could not ſpeak for a time: The Lord in that, as it were, ſhewed a ſign from Heaven.</p>
+               <p>Wife, theſe Pillars are enough to make the Axletree crack, we'll drive away, and endeavour to make another load.</p>
+               <p>The Biſhop of <hi>Litchfield</hi> and <hi>Coventry,</hi> being a moſt no<g ref="char:EOLhyphen"/>torious Swearer, one in <hi>Coventry</hi> came to an intelligent man to know whether he might not indict the Biſhop for ſwearing: How many Oaths did he ſwear, ſaid his Friend to him? Threeſcore: In what time was it? Was it within the compaſs of three weeks, ſaid his Friend? He anſwered, It was: was he ever convicted before a Juſtice of Peace, ſaid his Friend? He anſwered, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. The other anſwered, Then you cannot.</p>
+               <p>There came certain Feoffees who were intreſted for a School at <hi>Nun-Eaton</hi> in <hi>Warwickſhire,</hi> where the Biſhop was onely to have the trial of the Schoolmaſter, whether he were a ſufficient Scholar, but he would have the full power to place the Schoolmaſter, and ſo quarrels with them: Said the Biſhop to one of them, <hi>Hadſt thou a hand in placing this man here?</hi> I had, ſaid the man: <hi>A plague of God on the heart of thee,</hi> ſaid the Biſhop; and ſwore ſo faſt, that one blind man who was a Feoffee, did deſire him that brought him in to lead him out again; For, ſaid he, the Biſhop dorth ſwear ſo faſt. I am affraid that the Houſe will fall upon my head. Yet ſuch is his commendation, that if at any time be ſwear by his Faith and Troth, as commonly he doth, that he will not give a poor man or woman a peny, he will keep his word.</p>
+               <p>The ſaid Biſhop preaching againſt Covetouſneſs at <hi>Tam<g ref="char:EOLhyphen"/>worth</hi>
+                  <pb n="9" facs="tcp:56314:5"/> in <hi>Warwickſhire,</hi> although as covetous a fellow as the Country affords, ſaid to his Hearers, <hi>Ye are covetous, and will be covetous, and ſo you will remain;</hi> or words to this effect, concluding with this wiſh, <hi>The Devil ſcald you.</hi>
+               </p>
+               <p>Being alſo on a certain time requeſted to preach for one of his fellow-Schollars in <hi>Oxford,</hi> he ſwore by his faith and troth, he <hi>could not ſpit Sermons.</hi> So that we ſee what is bred in the Bone, will never out of the Fleſh.</p>
+               <p>Wife, did not our Biſhop ſay once in his Sermon, <hi>We are your Spiritual Fathers?</hi> Theſe are ſome of them.</p>
+               <p>Doctor <hi>Pearce,</hi> Biſhop of <hi>Bath and Wells,</hi> a moſt noto<g ref="char:EOLhyphen"/>rious Swearer, coming into a Barbers ſhop in <hi>London,</hi> where there ſate one <hi>Makerneſs;</hi> who when he ſaw the Biſhop, roſe up to give him the place: <hi>Doſt thou know me,</hi> ſaid the Biſhop? Yea, ſaid <hi>Makerneſs</hi> you are my Lord <hi>Biſhop</hi> of <hi>Bath</hi> and <hi>Wells: What's thy Name,</hi> ſaid the Biſhop? He anſwered, My Name is <hi>Makerneſs: Gods wounds,</hi> ſwore the Biſhop, <hi>thou art a Pillar of the Church.</hi> This hath been printed already by another Author.</p>
+               <p>The ſame Biſhop long ſince ſaid, He thanked God he had not left one Lecture ſtanding in all his Dioceſs.</p>
+               <p>The Mayor of <hi>Wells</hi> not long ſince walking abroad on the Lords Day, went to the Biſhop (part of the Town being in the Biſhops Juriſdiction or Liberty) and deſired the favour of him that he might have his good will to ſuppreſs the diſ<g ref="char:EOLhyphen"/>orders that were there committed: <hi>Go your ways for a Jack<g ref="char:EOLhyphen"/>anapes with a Pox to you,</hi> ſaid the Biſhop, <hi>who put that into your head?</hi>
+               </p>
+               <p>Doctor <hi>Fafield</hi> of <hi>Berkin,</hi> preached, <hi>That whatſoever the King commanded, the People were bound to obey; though it were a ſin against God.</hi> At another time, not long after, he went up into the Pulpit to preach, but could not ſpeak a word, and ſo came down again: Which was looked upon as the hand of God upon him, for what he had formerly de<g ref="char:EOLhyphen"/>livered.</p>
+               <p>Doctor <hi>Reeve</hi> Dean of <hi>Windſor,</hi> being at the three Bibles
+<pb n="10" facs="tcp:56314:6"/> in <hi>Pauls</hi> Church-yard, ſwore by him that made him that he had done what he could about the delivering of ſuch a Peti<g ref="char:EOLhyphen"/>tion, and by <hi>Gods wounds</hi> he would do what he could again.</p>
+               <p>Several perſons, and one amongſt others who was a Mer<g ref="char:EOLhyphen"/>chant at <hi>Lime,</hi> told me that at <hi>Bridport</hi> alias <hi>Beauport,</hi> a mile from <hi>Lime,</hi> the Parſon was catechiſing ſome of the young People, and among the reſt a Maid, and asked her this queſtion, <hi>What will be the puniſhment of Hedge-Breakers and Hedge-Stealers?</hi> (it's conceived his had been broken) To which the Maid anſwered, <hi>Hell-fire I think: God damn me,</hi> ſaid the Prieſt, <hi>thou haſt more grace than all the Pariſh be<g ref="char:EOLhyphen"/>ſides.</hi>
+               </p>
+               <p>Doctor <hi>Sherborn,</hi> Prebend of <hi>Hereford,</hi> his man having brought his Horſe to a place called <hi>The Cabadge Lane</hi> in <hi>Hereford,</hi> curſed his man becauſe his Horſe looked no bet<g ref="char:EOLhyphen"/>ter, ſaying, <hi>A plague of God on the heart of thee, how doth my Horſe look!</hi>
+               </p>
+               <p>The ſaid Doctor being ſent for by an Alderman of the City, to aſſiſt him in the examination of one <hi>Edward Bourn</hi> a Quaker, and another of his Judgement, he convinced the ſaid <hi>Edward Bourn</hi> by two knocking arguments; for when <hi>Edward Bourn</hi> ſpake to him in the language of Thee and Thou, he gave him two good boxes on the ear, which the poor man was not able to reſiſt. A very learned Confuta<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Doctor <hi>James Buck,</hi> ſometime Parſon of <hi>Stradbrook</hi> in the County of <hi>Suffolk,</hi> but before the burning of the City of <hi>Garlick Hill,</hi> and <hi>Gregories</hi> near <hi>Pauls;</hi> and now Prea<g ref="char:EOLhyphen"/>cher at the <hi>Temple,</hi> formerly delivered as followeth:</p>
+               <p>That the Pope is head of the Church, and Head of the Spi<g ref="char:EOLhyphen"/>ritualty; and that there would never be any Conformity in the Church, until a Patriarch ſhould be above a Biſhop, a Biſhop above a Prieſt, a Prieſt above a Deacon, and the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Rome</hi> above them all. And that <hi>This is my Body,</hi> in the Sacrament of the Lords Supper, is to be underſtood in a literal ſence; and that there is a Tranſmutation of the Bread
+<pb n="11" facs="tcp:56314:6"/> into the Body and Blood of Chriſt, as in <hi>John</hi> 2. the ſub<g ref="char:EOLhyphen"/>ſtance of Water is turned into Wine: And that the words, <hi>Do this,</hi> are ſpoken to the Prieſt to create the Body and Blood of our Lord; affirming the Prieſt to have power to create the Body and Blood of Chriſt; and that it is lawful to invocate Saints and Angels: That Infants dying after Baptiſm, become Interceſſors for their Parents; and that Auricular Confeſſion to a Prieſt is abſolutely neceſſary once a year, or at leaſt once in a mans life. And that the Church of <hi>Rome</hi> is as honourable a Church as any is in the world: And that he uſeth as low obeyſance at the mentioning of the name of the Virgin <hi>Mary,</hi> as he doth at the name of <hi>Jeſus;</hi> and doth not onely bow thrice at his going to the Altar, and thrice at his return from the Table ſet Altar-wiſe, but alſo teacheth that adoration is due when the holy Myſteries are abſent: and that it is as lawful to worſhip the Altar, as for the woman that touched the hem of his Garment to worſhip Chriſt, and as it was in the <hi>Revelations</hi> to worſhip before the Throne: and that he hath denied the Cup to thoſe unto whom he gave the Bread: and hath often preached, That if a Child die being baptiſed, it is undoubtedly ſaved; but if it die before it is baptiſed, undoubtedly damned.</p>
+               <p>
+                  <hi>Thomas Johnſon</hi> of <hi>Newington-Thistle</hi> (in the Country of <hi>Salop</hi> it is as I take it) affirmed, <hi>That the King had done more in pardoning the Rebels, than God either would or could do.</hi>
+               </p>
+               <p>Mr. <hi>Moore</hi> of <hi>Leak</hi> in the County of <hi>Leiceſter,</hi> ſwore in the Chequer on the behalf of a young Gentleman, Mr. <hi>Tho<g ref="char:EOLhyphen"/>mas Smith,</hi> but the buſineſs being referr'd to a Trial at <hi>Lei<g ref="char:EOLhyphen"/>ceſter,</hi> he ſwore on the behalf of Mr. <hi>Hyland,</hi> the adverſe party.</p>
+               <p>The ſaid Mr. <hi>Moore</hi> being at a Knights houſe in <hi>Notting<g ref="char:EOLhyphen"/>ham,</hi> where there was a man that perſonated a Jeſuite, he enquired what Gentleman that was, it was told him he was a Jeſuite; the people all with-drew, leaving Mr. <hi>Moore</hi> and this ſuppoſed Jeſuite together; Mr. <hi>Moore</hi> courteouſly ſa<g ref="char:EOLhyphen"/>lutes
+<pb n="12" facs="tcp:56314:7"/> him, telling him that he had a great reſpect for men of his Order; and that there might be a better correſpondency between them, were that obſtruction of the Law removed.</p>
+               <p>Wife, part of theſe before ſpoken of, we may ſave the la<g ref="char:EOLhyphen"/>bour to lay them on the Cart, but ſend them to <hi>Black wall,</hi> and ſhip them for <hi>Rome.</hi>
+               </p>
+               <p>And now Wife, we have another ſort to carry, and they for their parts, may be ſent over into <hi>Germany</hi> to that Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Mentz</hi> that <hi>Luther</hi> ſpeaks of in the beginning of his <hi>Colliquies;</hi> where he tells us, That at a Diet at <hi>Auſbourg,</hi> which is a Convention of Princes, the Biſhop of <hi>Mentz</hi> took up a Bible which lay upon the Table, and having read two or three leaves in it, asked what book it was? One of the Princes told him 'twas the Bible: <hi>The Bible,</hi> ſaid the Bi<g ref="char:EOLhyphen"/>ſhop! <hi>I cann't tell what Book 'tis, but I'm ſure here's that which makes againſt us.</hi> Wife, as wife as this Biſhop will our next Load be. And the firſt man in this Cart ſhall be</p>
+               <p>Mr. <hi>Blundal</hi> of <hi>Worceſter,</hi> who told ſome friends of his of ſome hard queſtions which the Dean put forth to himſelf and three other Miniſters: What queſtions were they, ſaid his friend? He ask'd us, ſaid <hi>Blundal,</hi> How we could prove that there was a God? And I can tell you, ſaid he, we were never ſo put to 't in our lives. You ſhould, ſaid his friend, have made uſe of that Scripture in <hi>Rom. 2. For the inviſible things,</hi> &amp;c. That we did man, ſaid <hi>Blundal,</hi> and that would not do neither. What ſhift did you make then, ſaid his friend? He anſwered, We were fain to beg longer time of him. But how came you off at laſt, ſaid his friend? How, ſaid he? Why we met with an old Author, and made his words ours, and ſo we came off at laſt; but I can tell you, we had much ado firſt. O that ever four men ſhould pro<g ref="char:EOLhyphen"/>feſs to be Miniſters of the Goſpel, and yet not able to prove that there was a God!</p>
+               <p>A Maid in the City deſired Mr. <hi>Blundal</hi> to maket it out to her how he could prove himſelf a Miniſter of the Goſpel. Said he, Come to me next day when I am in my Pratling-Box and I'll tell thee.</p>
+               <pb n="13" facs="tcp:56314:7"/>
+               <p>There is, as I was informed at <hi>Worceſter,</hi> within eight miles of the City, an old man who never ſaid Sermon in all his life, and hath been blind a great while; but an able man for reading common Prayer, and ſerves a Curacy, and gets a little Boy to read the Chapters. See what an able Miniſtry here is!</p>
+               <p>The Biſhop of <hi>Worceſter</hi> lately Ordained one Mr. <hi>Moore</hi> ſometime a Lievtenant in the late war; he is a diſtracted man: And getting up into the Pulpit at <hi>Burford,</hi> he read a Pſalm, and then ſaid, <hi>Here's a Pſalm I can commend to you; my Grandfather taught it my Father, &amp; my Father taught it his Children, &amp; I would have you teach it your;</hi> with other words to this effect: and then concluded thus. <hi>But the weathers very cold, and I have a pretty good ſtomach to my Dinner; and therefore I'll come down into the Pew, and read a few Prayers, and then you ſhall go home, and we'll leave the reſt till another time.</hi>
+               </p>
+               <p>Mr. <hi>Piper</hi> of <hi>Chomly,</hi> a man in holy Orders, was Ordai<g ref="char:EOLhyphen"/>ned by the Biſhop of <hi>Worceſter;</hi> what his Calling was, I know not, though ſome ſay a Fidler, but I cannot affirm the truth of it; he ſtarved at <hi>Chomly.</hi> Some of his old compa<g ref="char:EOLhyphen"/>nions getting him into a Cellar in an Alehouſe, would there have him exerciſe his Gifts, where he ſtaid ſo long, that he could hardly get up the ſtairs. And having read Evening Prayer on a Sunday, as they call it, he went to refreſh his tired ſpirits at an Alehouſe not far off, where he continued ſome time; at laſt, as he himſelf confeſſeth, he went to an Holly-Tree, or Holly-Buſh, to make water, and certain Frogs appeared, and tranſcrub'd him through the Holly-Buſh, and carried him to a place called <hi>The Green way,</hi> and there ſet him down; and up with him again, and carried him to a Village called <hi>The Rock,</hi> and ſet him down in the Church-yard; and up with him again, and brought him and fet him down in the High-way in the dirt, and thence his wife came and fetch'd him home. And yet in the judgment of charity, ſome think he lay drunk under a Hedge or in a Ditch, all the while.</p>
+               <pb n="14" facs="tcp:56314:8"/>
+               <p>At <hi>Marſhfield</hi> in <hi>Glouceſter ſhire,</hi> one of the Pariſhioners came to the Prieſt, deſiring him to ſpeak with a poor woman who had lately buried her Daughter, being her only Child, for which ſhe was exceedingly grieved; and deſired him to ſpeak as comfortably as he could to her, and if it were poſſi<g ref="char:EOLhyphen"/>ble by his counſel he might help to ſupport her drooping ſpirit: at laſt they met together, and the woman began to relate her grief; and telling in what manner her Daughter lay linguiſhing in her ſickneſs, the Prieſt ſaid, <hi>Could not you blow wind in her Arſe?</hi> Which was all he would ſay to her.</p>
+               <p>One Mr. <hi>Giles Thornbury,</hi> a Prebend, coming to viſit a Gentlewoman that was ſick, ſhe deſired him to pray with her, but not common, but conceived Prayer: He anſwered, That he could pray no other but common Prayer. Can you tell, ſaid the Gentlewoman, who can pray any other prayer? None that I know, ſaid he, in <hi>VVorcester,</hi> but <hi>VVill. VVar<g ref="char:EOLhyphen"/>wick.</hi>
+               </p>
+               <p>The Parſon of <hi>Shorditch</hi> near <hi>London,</hi> meeting the Curat of <hi>Biſhopſgate,</hi> asked him how he did? Who (complaining of the hard ſervice that he was put to the day before, in preaching twice) ſaid he was not very well: Why, quoth <hi>Shorditch,</hi> that's the eaſieſt thing in the world, or words to that effect. But ſays <hi>Biſhopſgate.</hi> Do you then Read Pray<g ref="char:EOLhyphen"/>ers? No, quoth <hi>Shorditch,</hi> I don't Read Prayers: <hi>There's the Devil on't,</hi> quoth <hi>Biſhopſgate, I Read Prayers too:</hi>
+               </p>
+               <p>So much for this Cartload of ignorant Sots, which with many of our Biſhops and Doctors, thoſe Reverend Fathers, I ſhall refer to a Book of my Brother <hi>How</hi> the Cobler, for further inſtruction.</p>
+               <p>Our next Load ſhall be Cheaters: And we will begin with two Swop-Souls: One Mr. <hi>Dale</hi> of <hi>Stanlat,</hi> five miles from <hi>Abingdon,</hi> in the County of <hi>Berks,</hi> the other Mr. <hi>Ingram</hi> of <hi>Longworth,</hi> four miles from <hi>Abingdon,</hi> whoſe Living by eſtimation was worth 200 <hi>l. per annum.</hi> This Mr. <hi>Dale</hi> had a Living likewiſe in <hi>York-ſhire,</hi> worth, as was ſaid 400 <hi>l. per ann.</hi> Theſe two Parſons met together, and after ſome acquain<g ref="char:EOLhyphen"/>tance
+<pb n="15" facs="tcp:56314:8"/> each with other, to trading they fall about ſwopping of Livings and Souls: <hi>Dale</hi> will part with his Living in <hi>Yorkſhire</hi> of 400 <hi>l. per annum,</hi> for <hi>Ingrams</hi> of <hi>Longworth,</hi> though but 200 <hi>l.</hi> becauſe of the conveniency of it, being near <hi>Stanlat; Ingram</hi> buys a Pig in a Poke, and like a good fellow takes the others word, reſigns his Living to <hi>Dale,</hi> and goes down into <hi>York-ſhire</hi> to ſee his bargain; but when he came there, he found it a poor barren cold Country, and not worth above 80 <hi>l. per annum. Ingram</hi> returns again, ex<g ref="char:EOLhyphen"/>claiming againſt <hi>Dale;</hi> and the better to be revenged on him, would have the young men make a Play of it, and call it, <hi>The Divine Cheat.</hi>
+               </p>
+               <p>Mr. <hi>William Coulbourn</hi> Parſon of <hi>Melcomb Regis</hi> in <hi>Dor<g ref="char:EOLhyphen"/>cetſhire,</hi> adjoyning to <hi>VVeymouth,</hi> and Parſon of <hi>Sudbury</hi> in the County of <hi>Suffolk,</hi> about 150 miles diſtant from <hi>Melcomb Regis,</hi> going to the Biſhop of <hi>Norwich</hi> for a Li<g ref="char:EOLhyphen"/>cenſe to preach, the Biſhop granted him a Licenſe, being a man of great parts, and particularly a good Orator, and one in good eſteem, and much admired by all true Sons of the Church. In his Journey home from <hi>Norwich,</hi> he was guil<g ref="char:EOLhyphen"/>ty of a groſs miſcarriage, the relation whereof take as fol<g ref="char:EOLhyphen"/>loweth:</p>
+               <p>As he went from <hi>Norwich</hi> to <hi>Sudbury,</hi> his occaſions led him about twenty miles out of the way, to a Town called <hi>Holt</hi> in the County of <hi>Norfolk,</hi> where going by the Name of Mr. <hi>VVilliams,</hi> he went to an Apothecaries in the Town, and would have changed ſome Gold for Silver, only deſired that he might deliver the Gold ſealed up in a Box; but the Apothecary refuſed to trade with him upon thoſe terms, telling him, he ſhould have his Silver looſe, and ſo he would have his Gold: Whereupon they parted, and Mr. <hi>Williams</hi> goes to one <hi>Francis Games,</hi> a Mercer in the Town, preten<g ref="char:EOLhyphen"/>ding to buy ſome Stuffs and Silks of him, to the value of four<g ref="char:EOLhyphen"/>teen or fifteen pounds; then after they had agreed as to price, he told him that he could not pay him at preſent, but ſet a day wherein he would ſend his man to pay for what he
+<pb n="16" facs="tcp:56314:9"/> had bought, and to fetch the Stuffs; and withall he told him he had one requeſt to him, which was that he would let him have 20 <hi>l.</hi> in Silver, and he would leave him 20 <hi>l.</hi> in Gold as a pawn for it; and that when he ſent his man for the Stuffs, he would ſend money to redeem his Gold: Upon theſe terms <hi>Games</hi> helped him to 20 <hi>l.</hi> But Mr. <hi>Williams</hi> deſired that in regard the money was given him by a ſpecial friend, for whoſe ſake he was unwilling it ſhould be chang<g ref="char:EOLhyphen"/>ed, Mr. <hi>Games</hi> would give way to the ſealing of it up in a Box, which Mr. <hi>Games</hi> aſſented unto, and it was accor<g ref="char:EOLhyphen"/>dingly done; and when the Gold was ſealed up in the Box, the Box was ſet down upon the Table, and, as it's conceived, whilſt they were taking a Pipe of Tobacco, he ſlipped that Box into his pocket, and ſet another upon the Table juſt like it, ſealed up as that was. At parting he deſired <hi>Games</hi> that when he ſent him the 20 <hi>l.</hi> he would ſend him the Box ſeal<g ref="char:EOLhyphen"/>ed up as it was. After he was gone out of the Town, the Apothecary came to ſee <hi>Games,</hi> and after ſome diſcourſe about Mr. <hi>Williams,</hi> told him it was a <hi>Cheat; Games</hi> told him it could not be a Cheat, for he ſaw the Gold put into the Box; whereupon the Apothecary ſnatched the Box out of his hand, and opening it, there was nothing in it but a piece of Lead and Pinduſt: Upon which, making enquiry which way he was gone, they followed him to <hi>Fakenham,</hi> where he was endeavouring to play the like prank. Under<g ref="char:EOLhyphen"/>ſtanding him to be there, they went to a Juſtice of Peace, one Mr. <hi>Clifton,</hi> fetched a Warrant, and brought him be<g ref="char:EOLhyphen"/>fore the Juſtice, and upon examination he confeſſed that his Name was <hi>VVilliam Coulbourn.</hi> He was tried at the Seſſi<g ref="char:EOLhyphen"/>ons, and fined fourteen pounds to the King.</p>
+               <p>He alſo lent a Butcher 60 <hi>l.</hi> and taking Bond for it, pro<g ref="char:EOLhyphen"/>feſſed it was burnt by accident, and deſired the Butcher to give him another; telling him withall, That he would lend him 20 <hi>l.</hi> more, and take a Bond for 80 <hi>l.</hi> which was ac<g ref="char:EOLhyphen"/>cordingly done, and the former Bond not being burnt, be hath two Bonds for one ſum of Money.</p>
+               <pb n="17" facs="tcp:56314:9"/>
+               <p>He alſo perſwaded a young man to borrow money, and give a Bond written with white Ink, which in a weeks time would not be ſeen. With many other things of the like na<g ref="char:EOLhyphen"/>ture, which would take up a ſheet of Paper to recite: But becauſe the Cart's already heavy loaden, I ſhall paſs them by, and away with this Load to the Pillory.</p>
+               <p>And now Wife, we muſt load one among another, Drun<g ref="char:EOLhyphen"/>kards and Whoremongers.</p>
+               <p>Mr. <hi>Aſhton</hi> the Parſon of St. <hi>Andrews</hi> in <hi>Hartford,</hi> and Mr. <hi>Manning</hi> a Tanner, meeting together at the Bull in <hi>Biſhopſgate-ſtreet London,</hi> went and drank together firſt in the Bull-Cellar, until the Parſon was almoſt blind, and from thence they went to ſeveral places, till at length he had got his full doſe. He was to have gone home in the Coach, but ſo loved his company and his good Liquor, that he prevailed with the Coachman to leave him a horſe, be<g ref="char:EOLhyphen"/>cauſe he muſt go home to preach at the Funeral of the May<g ref="char:EOLhyphen"/>or of <hi>Hartford</hi> on the morrow; and ſo late at night they ſet forward towards <hi>Hartford,</hi> but being ſo exceeding drunk he fell off his Horſe ſeveral times; but at laſt the poor Beaſt, as diſdaining to carry him farther, ran away home, and left him to ſhift for himſelf; but his companion Mr. <hi>Manning,</hi> taking more pity of him, ſet him upon his own Horſe, and led him; but yet he could not fit the Horſe, for Mr. <hi>Man<g ref="char:EOLhyphen"/>ning</hi> going a little aſide to eſcape the dirt, not far from the Towns end, down falls the Parſon again in the dirt, and away runs the Tanners Horſe home. His Wife hearing the Horſe coming in, called her man to riſe and let his Maſter in, and take care of the Horſe; the man riſing and going out, found nothing but the Horſe: and telling his Miſtriſs that the Horſe was come, but not his Maſter, ſhe cried out and ſaid that her Huſband was robbed and killed, and ſo rai<g ref="char:EOLhyphen"/>ſed the Town, and many of the Neighbourhood went to go look after him, ſome with Lanthorns, and ſome with Wea<g ref="char:EOLhyphen"/>pons; but by that time they got to the Towns end, they met the Tanner with the Parſon upon his back: but being
+<pb n="18" facs="tcp:56314:10"/> tired with carrying ſuch a load, he was fain to leave him at a little houſe at the farther end of the Town, becauſe none elſe of the Neighbourhood would take any pity, or be at any pains to carry him home. But the Parſon thinking to cover all, got up into the Box the next day, but could ſcarce hold up his head; nor would he go to the Mayors Houſe.</p>
+               <p>I went through a Village in <hi>Somerſetſhire,</hi> where there was a Prieſt, whoſe Name was <hi>Franklin,</hi> lay drunk in open view; and a merry fellow paſſing by, held up his hat and ſang, <hi>O hone, O hone, Franklin is dead and gone.</hi>
+               </p>
+               <p>A Parſon in <hi>Eſſex,</hi> and his Curate, ſat a drinking all night on the Saturday night, and the next morning the Clerk came to the Curate to Read Prayers; but he being very drunk, and having not ſlept, took a Ladle in his hand out of the Kitchin, and run into the Church with it; and going into the Reading Pew, cried to the people, <hi>Muſt you have ſome Porrage? Come, I'll give you ſome Porrage.</hi>
+               </p>
+               <p>Mr. <hi>Smith</hi> Vicar of <hi>Montacute</hi> in <hi>Somerſetſhire,</hi> went to <hi>Yeovil</hi> on a Friday, being market-day, and there being drunk, attempted to ride home, and going the upper way towards <hi>Odeomb,</hi> fell off his horſe, and lay as dead; but ſome Country people coming by, thought it had been a man mur<g ref="char:EOLhyphen"/>thered, and durſt not come ſo near as to touch him, till they had gone to the Town, to call more Witneſſes; whereupon many people coming in, found it to be Parſon <hi>Smith,</hi> and had him down to <hi>Yeovil</hi> again, where he lay at the Ship that night; and the next morning he was yet ſo unſettled in his head, that he rides to <hi>Stoke Croſs,</hi> half a mile beyond <hi>Mon<g ref="char:EOLhyphen"/>tacute,</hi> and then at laſt with much ado got home.</p>
+               <p>It is notoriouſly known, That the Grand Jury in <hi>Somer<g ref="char:EOLhyphen"/>ſetſhire</hi> preſented the whole Clergy of that County, at which Judge <hi>Keeling</hi> was angry, there being no particular inſtance; whereupon the Foreman of the Grand Jury inſtan<g ref="char:EOLhyphen"/>ced in the Parſon of his own Pariſh, who coming to his houſe drunk, affirmed the Pigeons that were then at the fire to be Geeſe.</p>
+               <pb n="19" facs="tcp:56314:10"/>
+               <p>The preſent Parſon of <hi>Naring</hi>-near <hi>Epping</hi> in <hi>Eſſex,</hi> is notoriouſly known to be a frequent Drunkard, having the conveniency of an Alehouſe in his Churchyard, where he hath ſpent ſo much with one <hi>Chapman</hi> a Farmer hard by, that the Farmer, what with neglect of buſineſs, loſs of time, and expence of money, is broke and undone. Yet he put ſeveral of his honeſt Neighbours into the Biſhops Court, and proſecuted them there; where being demanded why they went not to the Communion? They anſwered they could not receive it at the hands of ſuch a wicked man. Being requi<g ref="char:EOLhyphen"/>red then to exhibit Articles, they did, but the man that re<g ref="char:EOLhyphen"/>ceived them was quickly turned out, and his Succeſſor re<g ref="char:EOLhyphen"/>quired them to retain a Proctor to put their Articles in La<g ref="char:EOLhyphen"/>tin, <hi>&amp;c.</hi> Whereupon the country-men being fed with no<g ref="char:EOLhyphen"/>thing but delays and charges, gave it over; and ſo that Parſon drinks ſtill.</p>
+               <p>One Mr. <hi>Fletcher,</hi> Parſon of <hi>Bow</hi> near <hi>London,</hi> being in an Alehouſe very drunk, and ſwearing ſufficiently; a Brew<g ref="char:EOLhyphen"/>er came in there to receive money for Ale: after greeting one another, ſays Mr. <hi>Fletcher, Sir Why do you not come and hear me?</hi> The Brewer promiſed him he would; <hi>Faith,</hi> ſays <hi>Fletcher, I'll preach you a good Sermon.</hi> The Brewer according to his promiſe goes, and finds the Parſon like an Owl in an Ivy-Buſh. A while after, <hi>Fletcher</hi> meets the ſaid Brewer again in an Alehouſe, and ſaid to him, <hi>Sir, you pro<g ref="char:EOLhyphen"/>miſed to come and hear me: Why,</hi> ſays the Brewer, <hi>ſo I did, but I could ſcarce ſee you, you were ſo bedect with Holly and Ivy. Aye,</hi> ſays the Parſon, <hi>you may ſee what a bleſſed Re<g ref="char:EOLhyphen"/>formation I have brought them to!</hi> The ſaid Parſon loves his drink ſo well, that if any of his Comrades do but come into the Church whilſt he is preaching, and cry Hem, and hold up their finger to him, he preſently turns them off, and goes to them to the Tavern, which is juſt over againſt the Church.</p>
+               <p>
+                  <hi>Febr.</hi> 25. 1667. <hi>Matthew Leeſon</hi> a Seaman, going with his Wife from <hi>White Chappel</hi> to <hi>Wapping,</hi> found in <hi>Ratcliff-Highway,</hi>
+                  <pb n="20" facs="tcp:56314:11"/> over-againſt old <hi>Gravel Lane,</hi> one Mr. <hi>Peacock</hi> the Prieſt of the <hi>New Chappel</hi> at <hi>Ratcliff,</hi> tumbled into the Cart-Rut; and after he had gotten him up, he ſwore by God he was down. But whether the wet within or without made him reel as he went, is left to the Judgement of the Learned Biſhops.</p>
+               <p>The Prieſt of <hi>Cropthorn,</hi> by name <hi>Whitefoot,</hi> two miles from <hi>Eveſham</hi> in <hi>Worceſter ſhire,</hi> was ſo drunk at <hi>Eveſham,</hi> that the Mayor ſet him in the ſtocks twice in that condition. Welfare my Countryman for his courage! I ſhall prefer him before the Mayor of <hi>Bath;</hi> who when there was a bafe Prieſt taken in a ſhameful manner in the company of Whores, where he had ſpent a night, brought before him, he turn'd him up, for fear of the Biſhops diſpleaſure, becauſe for ſooth he was a Clergy-man.</p>
+               <p>Parſon <hi>Clark</hi> of <hi>Bromyard</hi> in <hi>Herefordſhire,</hi> ten miles from <hi>Worceſter,</hi> having two Wives and two Livings, ran away from them all, and (as I heard) left his Neighbours 200 <hi>l.</hi> to pay for him. And leſt he ſhould come into ano<g ref="char:EOLhyphen"/>ther Country, and change his Name, and ſo cozen any other woman or man, take this brief deſcription of him, He is a fat corpulent man, pretty tall, his hair inclined to red or yellow, eſpeciall his face, and aged about fifty.</p>
+               <p>Parſon <hi>Fly</hi> of <hi>Hunſlow</hi> was ſo drunk at the Kirſning of a Child, that when they gave the Child one name, he kirſned it by another, and preſently fell down upon his breech in the place. Yet he agreeth lovingly with his wife, for he will get in one end of the Chimney-corner, and ſhe in another, and drink Aleſtifly.</p>
+               <p>The Parſon of <hi>Sawford</hi> two miles from <hi>Chipping-Norton</hi> in <hi>Oxfordſhire,</hi> was ſo drunk that he fell off his Horſe, and miſtaking the Horſes Head, got up again with his face to<g ref="char:EOLhyphen"/>ward the Horſes Tayl, and ſo down he fell again.</p>
+               <p>The Parſon of <hi>Edmonton</hi> in the County of <hi>Middleſex,</hi> was ſo drunk, that when he came to bury a dead Corps, he read that which was appointed to be ſaid at the Churching
+<pb n="21" facs="tcp:56314:11"/> of a Woman, inſtead of what was to be read at a Burial. A Butcher being preſent, told him that he was miſtaken, and that he was burying of a dead man. <hi>You Flabberchops,</hi> ſaid the Prieſt, <hi>I know what I have to do: Call me Flabberchops again,</hi> ſaid the Butcher, <hi>and I'll give you a knock on the pate:</hi> Said the Prieſt, <hi>Thou art a Flabberchops:</hi> With that the Butcher took him a knock on the pate, and made the blood run about his ears; and ſo the man was buried with blood.</p>
+               <p>This Prieſt was formerly ejected for ſcandal; and one thing, among others, was this, That ſitting in an Alehouſe there was a Health began, at which he threw his hat in the fire, and burned it; at the ſecond Health, off went another garment, at the third Health another, until he had left no<g ref="char:EOLhyphen"/>thing but his ſhirt.</p>
+               <p>One thing by the way is very obſervable, which is, That there is not any man that was formerly vomited out for ſcan<g ref="char:EOLhyphen"/>dal, were it ever ſo notorious, in Doctrine or Life, but has been ſince lick'd up again.</p>
+               <p>The Prieſt of <hi>Conford</hi> near the Iſle of <hi>Purbeck</hi> in <hi>Dorcet<g ref="char:EOLhyphen"/>ſhire,</hi> having been at <hi>Pool</hi> market, was ſo drunk that he fell into a Ditch, where he lay all night; and having ſome Bot<g ref="char:EOLhyphen"/>tles of ſtrong-water in his pocket, after he had ſlept a little, he fell to work with them, and ſo kept himſelf ſo drunk, that on the morrow about two of the clock, one coming that way called to him, and asked him what he did there? He an<g ref="char:EOLhyphen"/>ſwered, <hi>That he was very buſie in his ſtudy.</hi>
+               </p>
+               <p>A Prieſt dwelling near the Lord <hi>Paulets</hi> in the County of <hi>Wilts,</hi> being aſleep in the Pew or Pulpit, and being awaken<g ref="char:EOLhyphen"/>ed by one to begin his Sermon, ſwore a fearful Oath <hi>That not a man of my Lord Paulets ſhould pay a peny there.</hi>
+               </p>
+               <p>
+                  <hi>Mr. Forby</hi> ſometime of <hi>Hindon</hi> in the County of <hi>Wilts,</hi> coming to a market Town in the ſame County, and being ſomewhat elevated, began to ſcrape acquaintance with a Gentleman: <hi>Do you know me,</hi> ſaid the Gentleman? <hi>I can<g ref="char:EOLhyphen"/>not remember you; but now I call you to mind,</hi> added the Gen<g ref="char:EOLhyphen"/>tleman,
+<pb n="22" facs="tcp:56314:12"/> 
+                  <hi>I ſaw you, with two or three more of your Brethren, lie drunk in Sir</hi> James Thinn's <hi>Pigſcoat, when the King was there.</hi>
+               </p>
+               <p>
+                  <hi>Jarvis Smith</hi> of <hi>Brinſop, Manſel,</hi> and <hi>Wormſly</hi> in <hi>Here<g ref="char:EOLhyphen"/>fordſhire: Wormſly</hi> (it's confeſs'd) is too little to buy Ale; the other two Livings, conſidering what a good ſtomack he hath, is little enough; for his Neighbours ſay he will eat as much as two or three men: And a very merry Preacher he is, for he will tell his Hearers ſuch ſtories in the Pulpit, as will make himſelf break out into great laughter. And as he is merry in the Pulpit, ſo he is as crabbed a Knave when he is out; for there are but few of his Pariſhioners that are in a capacity to fight, but he hath been together by the ears withall, when he hath met with a little angry Ale. An old man leaning his head againſt the Pulpit, being hard of hear<g ref="char:EOLhyphen"/>ing, he bid him lean off the Pulpit; but the man being hard of hearing underſtood him not; Whereupon the Prieſt gave him a Box on the Ear, and away went the man out of the Kirk. One time preaching a Sermon at a funeral, out of theſe words,—<hi>All is but vanity;</hi> and uſing ſome light ex<g ref="char:EOLhyphen"/>preſſions therein, whereat ſome young men fell a laughing; <hi>O you Cakoons</hi> (ſaid he) <hi>you have ſo filled your bellies with brown Bread and Bacon, that the Word cannot enter into you.</hi> A Gentleman who came into the Church a little before, with his Hawk upon his fiſt, his Spaniels hunting about the ſeats, and his Horſes tied in the Church-yard, laughed at his ſilly carriage; which when the Prieſt ſaw, he ſaid, <hi>Hood up your Kites, and couple up your Curs, and rid off your Jades, for all is but vanity.</hi> At another time, being in the Pulpit, <hi>John,</hi> (ſaid he to his Clark) <hi>go to John Hands's, he hath the best Ale in the Town, and bid him ſend me a pot of the beſt Ale he hath;</hi> which was accordingly done, and ſo having drunk up his Ale in the pulpit, he fell to his preachment a<g ref="char:EOLhyphen"/>gain. One of the moſt ſufficient men in his Pariſh, told me that he met him coming out of an Alehouſe in his ſtockings without his ſhooes; <hi>What's the matter, Mr. Smith,</hi> ſaid
+<pb n="23" facs="tcp:56314:12"/> he, <hi>that you are without your ſhooes?</hi> The Prieſt fell a villi<g ref="char:EOLhyphen"/>fying his Neighbours, ſaying, <hi>They kept him ſo bare of mo<g ref="char:EOLhyphen"/>ney that he was fain to leave his ſhooes behind him as a pawn for Ale.</hi> Come, ſaid his Friend, go back with me, and I'll redeem your ſhooes, and ſo he did.</p>
+               <p>
+                  <hi>Mr. Boam</hi> of <hi>Harding,</hi> three miles from <hi>Henly</hi> upon <hi>Thames,</hi> in his Sermon ſaid, <hi>That the Name of God was not uſed in the Engliſh Tongue until</hi> Henry the VIII's <hi>time, and then not by any but by the Prieſts, when the Service was in Latin: But now men can go and run into corners, and commonly in their Meetings uſe the Name of God, and ſay O God, and O Lord:</hi> at which he held up his hands, and lift up his eyes in admiration, with <hi>O Jeſu!</hi> and further ſaid, <hi>That Paul was ſuperfluous in his Epistles, concluding them with</hi> The Grace of our Lord Jeſus, <hi>&amp;c. But Paul</hi> (ſaid he) <hi>had his infirmities; we muſt allow Paul his Grain.</hi> He hath alſo ſaid, <hi>He did not care to preach to thoſe that were born in the times of Rebellion.</hi> And if he ſees any of the Boys of <hi>Henley</hi> come to his Kirk, he will bid them go home again, and look Birds-Neſts.</p>
+               <p>A certain prieſt with his Cu—Rat near <hi>Taunton-Dean</hi> in <hi>Somerſetſhire,</hi> ſat up until twelve a Clock at night drinking and gaming; and on the morrow as he was preaching, and pulling out his Handkerchief to wipe his face, he pulled out a Pack of Cards, which ſcattered upon his Neighbours heads.</p>
+               <p>The Parſon of <hi>Welch Bicknor,</hi> and Vicar of <hi>Walford</hi> in <hi>Herefordſhire,</hi> by name <hi>Adams,</hi> being led home in the even<g ref="char:EOLhyphen"/>ing from <hi>Roſs</hi> market, by two of his loving Neighbours, who were his Supporters, and ſeeing a Glow-worm near or in the bottom of a hedge, and having a pipe of Tobacco fill'd, pull'd it out, kneeled down, and went to light his pipe of Tobacco, ſaying, <hi>Fire I hope, fire I hope.</hi>
+               </p>
+               <p>The Parſon of <hi>Steventon</hi> in <hi>Hampſhire</hi> was ſo drunk at the Viſitation, that in Sermon time he muttered out ſome words as he ſate in the ſeat; and riſing to come out of the ſeat, fell down in the Alley.</p>
+               <pb n="24" facs="tcp:56314:13"/>
+               <p>Wife, I prethee tell the ſtory about Confin <hi>Kate;</hi> I had almoſt forgot it, till you put me in mind of it the other day.</p>
+            </sp>
+            <sp>
+               <speaker>VVife.</speaker>
+               <p>Husband, I remember it well, it was when we were at <hi>Briſtol</hi> together; they were very ſubſtantial men who told us of it, and aſſured us of the truth of it:</p>
+               <p>
+                  <hi>A Biſhops Granchild, who was either a Parſonor Vicar, having a Maid Servant, a very civil young woman, and ſomewhat Fanatick; he and his wife combine how they might defame, or rather undo her: wherefore they begin to speak how ere long their Couſin</hi> Kate <hi>would come to ſee how they aid; and would often be talking in the Maids hearing of their Couſin</hi> Kate: <hi>AT laſt Couſin Kate comes, (which was a ve<g ref="char:EOLhyphen"/>ry ſmooth young man in a Gentlewomans habit) and very welcome was Couſin</hi> Kate; <hi>when night drew on, the Maid enquired where Couſin</hi> Kate <hi>ſhould lie:</hi> Lay on a clean pair of ſheets on your bed (<hi>ſaid her Miſtriſs</hi>) we will make bold with Couſin <hi>Kate. To bed they went, and after ſome word which the Prieſt ſhould give, or cry hem, Couſin</hi> Kate <hi>must fall to work with the Maid; which when the Maid found, ſhe leaped out of the bed, cried out upon them for their baſeneſs, packs up, and away ſhe goes. This is the truth of it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>Wife, your memory is very good, you have it as right as may be.</p>
+               <p>A Gentleman now living within the Lines of Communi<g ref="char:EOLhyphen"/>cation, was led by one of the <hi>Prebends</hi> of <hi>Chicheſter</hi> into a Whore-houſe, where the Prebend deſired the Gentleman to chooſe what Laſs he liked beſt, and he would pay for it, upon condition he would lie with her in his ſight: <hi>For</hi> (ſaith the Prebend) <hi>I am old, and lame, and paſt it, but I love to ſee it still.</hi> But his motion was deteſted by the Gentleman, being a civil perſon: Who alſo doth aſſure the World, that the Prebends of <hi>Chicheſter</hi> have debauched many hopeful young men.</p>
+               <p>Doctor <hi>Johnſon</hi> (for ſo I think they call him) dwelling near <hi>Aſhby</hi> in <hi>Leiceſterſhire,</hi> meeting two or three of his
+<pb n="25" facs="tcp:56314:13"/> Neighbours coming from <hi>Aſhby,</hi> enquired of them whether they had bought <hi>Aſhby?</hi> One of the men anſwered, <hi>What we bought, we paid for; but you took the poſſeſſion of ſuch a mans ditch at ſuch a time, and never paid for it.</hi>
+               </p>
+               <p>The ſaid Doctor is a frugal man, and going to buy Ale at the beſt hand, being drunk he fell upon his knees; which a Neighbour ſeeing, ſaid, <hi>What ſhall we have prayers now?</hi> But his wife made a ſhift to pluc khim into a Chamber.</p>
+               <p>
+                  <hi>Hill, Brogden,</hi> and <hi>Gilbert,</hi> three Prieſts in <hi>Buckingham<g ref="char:EOLhyphen"/>ſhire,</hi> met within three miles of <hi>Henly</hi> upon <hi>Thames</hi> in an Alehouſe, where meeting with a man that had been gather<g ref="char:EOLhyphen"/>ing of Nuts, they asked him for ſome; the man calls for a Diſh to put them in, and pulled them out of his pocket, and they began to take of them: <hi>Hold</hi> (ſaith one of the Prieſts) <hi>let us ſay Grace firſt: What</hi> (ſaith the other) <hi>is there any Grace for Nuts? Yes</hi> (ſaith he) <hi>I will ſay Grace;</hi> and ſo put off his hat, and holds it over the diſh, and lifts up his eyes, and with one of his hands in the mean time takes up a a good handful: <hi>Nay hold,</hi> ſaith the other, <hi>you don't ſay Grace right;</hi> and ſo off goes his hat, and he lifts up his hands and eyes, and maketh as if he would ſay ſomething, and at laſt layeth down the brims of his hat upon the diſh, and turneth the diſh of Nuts into his hat, ſaying, <hi>You ſaid Grace for ſome, but I ſay Grace for all.</hi>
+               </p>
+               <p>Theſe three Prieſts will undertake to bowl, drink and fight with any three in the Country; and one of them uſing this imprecation, <hi>Damn me,</hi> and one admiring at him for it, <hi>O</hi> (ſaid one of his Neighbours) <hi>this is nothing to him when he is at home.</hi>
+               </p>
+               <p>Parſon <hi>Jones</hi> of <hi>Cundicot, about two miles from Stow</hi> in <hi>Gloucesterſhire,</hi> went to <hi>Burford</hi> market, where he was ſo drunk, that he miſtook a grey horſe for his own, which was of a ſorrel colour, and brought him home with him about ſeven miles, and the Owner of the horſe followed him. He is known to be a common Drunkard, yet this is his commen<g ref="char:EOLhyphen"/>dation, that if at any time he be drunk in the Pulpit, if any
+<pb n="26" facs="tcp:56314:14"/> of his Neighbours do but hold up a finger and becken to him, he will come down.</p>
+               <p>Parſon <hi>Cook</hi> of <hi>Suckly</hi> in <hi>Herefordſhire,</hi> hath another Parſonage called <hi>Estnor,</hi> where he hath a Cu-Rat whoſe name was <hi>Speak,</hi> whoſe wife the Parſon (as ſhe her ſelf ſaith) attempted to commit uncleanneſs withal; and ſaid, He would give her five pounds to buy her a Silk Gown; <hi>And we will to bed,</hi> ſaid he, <hi>and have a</hi> Cook <hi>or a</hi> Speak <hi>immedi<g ref="char:EOLhyphen"/>ately.</hi>
+               </p>
+               <p>Mr. <hi>Heyward</hi> of <hi>Shrewsbury</hi> being at a meeting where there was Dancing, he was requeſted alſo to dance by a Gen<g ref="char:EOLhyphen"/>tlewoman; off goes his holy Garments, Cirſingle and all, and to dancing he fails: When it was ended, he puts on his Garments again; <hi>Now,</hi> ſays he, <hi>I am as I was before.</hi>
+               </p>
+               <p>There is one in the ſame Town to whom they give the ti<g ref="char:EOLhyphen"/>tle of an Eſquire, who as he was eating Brawn and Muſtard at a Barbers ſhop in <hi>Shrewsbury,</hi> proteſted, That as true as that was Brawn and Muſtard, he took <hi>Heyward</hi> between his wives legs.</p>
+               <p>Judge <hi>Keeling,</hi> at <hi>Taunton</hi>-Aſſizes, fined the Biſhop in ten pounds, for ſending an Ordinary drunk to the Bar.</p>
+               <p>The Vicar of <hi>Berlingham</hi> in the County of <hi>VVorceſter,</hi> ſwore by him that made him, he would lay 20 pounds that he would prove the Church of <hi>England</hi> to be a true Church. And indeed ſhewed himſelf a true Son of the Church: for he was ſo wanton with one <hi>Scarlet</hi>'s wife, pulling and ha<g ref="char:EOLhyphen"/>ling her ſo hard that he broke her apron-ſtrings, and play<g ref="char:EOLhyphen"/>ed ſuch horſe-play to have her ſerve his luſt, that her Huſ<g ref="char:EOLhyphen"/>band ſued him, and at the Aſſizes recovered five pounds of him at a <hi>Niſi Prius.</hi>
+               </p>
+               <p>The Vicar of <hi>Alciter</hi> in <hi>VVarwick-ſhire,</hi> a notorious Drunkard, drank a Health to all Womens———I'll tell you no more of it; and his wife coming into the room, he would have taken up her coats, but ſhe fell down upon her Knees to ſave her ſelf. This I had from his Neighbours in the ſame Town of <hi>Alciter.</hi>
+               </p>
+               <pb n="27" facs="tcp:56314:14"/>
+               <p>A Parſon within two miles of <hi>Glouceſter,</hi> I am loth to give you his name, becauſe he is a Neighbour; would needs give his Farrier half a dozen of Ale; but before they parted, he with another, were fain to lead him almoſt home, with his Breeches in a ſweet pickle. At another time he piſt in the Pulpit, ſo that it ran down upon one of his Neighbours.</p>
+               <p>At <hi>Arle</hi> in the County of <hi>Salop,</hi> the Prieſt had drank ſo hard, that he piſt in the Pulpit; which the Lady <hi>Littleton</hi> perceiving, ſent for a Chamber-pot, and cauſed it to be ſet down by him in the Pulpit.</p>
+               <p>At <hi>Bath Eaſton,</hi> two miles from <hi>Bath,</hi> one that is called by the name of blind <hi>David,</hi> that ran his head againſt a crab<g ref="char:EOLhyphen"/>tree, in his Sermon uttered what my pen with modeſty may not relate, <hi>That there was nothing more pleaſing to a VVo<g ref="char:EOLhyphen"/>man</hi> quam Sperma—But no more of that.</p>
+               <p>Mr. <hi>VVanley,</hi> a Prieſt of <hi>Coventry,</hi> Succeſſor to Doctor <hi>Brian,</hi> having married a young man and his wife, ſent to him for five ſhillings for marrying of him; the man ſent him half a Crown, and ſaid, <hi>Go tell thy Maſter I will pay him the other half Crown when he pays me for bruſhing his back, when he ſat up all night with</hi> Mary Abel, <hi>at the Red Lion.</hi>
+               </p>
+               <p>He is a common Drunkard, and the ſecond of <hi>December</hi> 1665. having been abroad drunk, the Watch took him.</p>
+               <p>
+                  <hi>John Ryland</hi> of <hi>Spernal</hi> in <hi>VVarwickſhire</hi> was ſo drunk at a Village called <hi>Coughton,</hi> at the houſe of one <hi>John Hopkins,</hi> that the women tendring his condition got a man to lead him over a Bridge at <hi>Canbrook,</hi> and on the other ſide of the Bridge he fell down dead drunk, where he ſlept until he re<g ref="char:EOLhyphen"/>covered himſelf, many Carts and Waggons in the mean time paſſing by him.</p>
+               <p>This <hi>Ryland</hi> was formerly queſtioned before the Commiſ<g ref="char:EOLhyphen"/>ſioners ſitting at <hi>Coventry;</hi> for inſufficiency; where they de<g ref="char:EOLhyphen"/>manded of him what a Sacrament was, but he could not tell; whereupon a Gentleman ſtanding by, deſired a fortnights time for him to anſwer the queſtion. Yet now he will paſs for currant Coyn.</p>
+               <pb n="28" facs="tcp:56314:15"/>
+               <p>Mr. <hi>Drinkwater</hi> of <hi>Aberton</hi> in <hi>VVorceſterſhire,</hi> having been at <hi>Tewksbury</hi> in <hi>Gloucesterſhire,</hi> was ſo drunk that he fell off his horſe twice, in riding half a mile,</p>
+               <p>Mr. <hi>Clarkſon</hi> of <hi>Bradwell</hi> in <hi>Oxfordſhire</hi> two miles from <hi>Burford,</hi> ſcored thirty ſhillings in one day (as I am informed, though it be ſomething hard to believe) in an Alehouſe, at a penny a flaggon: He uſeth frequently to be drunk, and Dam'im and ſink'im are familiar terms with him.</p>
+               <p>Coming through the Town of <hi>Burton on the VVater, I</hi> was informed, That one <hi>Coverdale</hi> (a Cu-Rat under a Doctor there) was ſo uſually drunk with his Landlords drink, that they were forced to make their Beer ſmaller and ſmaller; and that he piſt his Bed, as commonly as he was drunk; inſomuch that his Landlady changed his lodging from a feather-bed to a flock-bed, and was going to turn him out of the flockbed to a bed of ſtraw, he had ſo rotted and ſpoyled them with piſſing. And ſo wanton, he would have kiſs'd his Landlady, but ſhe would not be kiſs'd by him; and once ſtriving with her, her mother took a Bucket, and laid him about the back and pate. He uſed to be drunk ſo often, that he complained he was aweary of being drunk; which inclines me to believe that he could freely have joyned with that Roman Prieſt vvho made the follovving Prayer:</p>
+               <p>
+                  <hi>Omnipotens &amp; ſempeterni Bacche, qui humanam ſocieta<g ref="char:EOLhyphen"/>tem maxime in bibendo conſtituiſti; concede propitius ut iſto<g ref="char:EOLhyphen"/>rum capita quae hodierna potione graventur, hodierna ſanen-tur, per Pocula Poculorum. Amen.</hi>
+               </p>
+               <p>In Engliſh thus:</p>
+               <p>Omnipotent and everlaſting Bacchus, which haſt appoint<g ref="char:EOLhyphen"/>ed humane Society chiefly to be ſpent in Drinking; merciful<g ref="char:EOLhyphen"/>ly grant that we, which were burdened with yeſterdays drink, may be kept with this days drink in good health, through all Cup and Cups. Amen.</p>
+               <pb n="29" facs="tcp:56314:15"/>
+               <p> His Landlord at laſt gave him warning to provide himſelf at <hi>Michaelmas;</hi> and the Curate's requeſt thereupon was, <hi>That a Barrel of good Beer might be provided him, against he went away.</hi>
+               </p>
+               <p>I could tell you ſomething of one <hi>Nicolſon</hi> of <hi>Wapley</hi> in <hi>Gloucesterſhire,</hi> but take this jeſt for a full explanation of the matter:</p>
+               <p>One of the Prebends of <hi>Glouceſter</hi> told me that the Biſhop had a great favour for me: <hi>What's that,</hi> ſaid I to the Pre<g ref="char:EOLhyphen"/>bend? <hi>There is</hi> (ſaid he) <hi>an Apparitors place void in the Deanry of Stone-houſe, and the Biſhop ſaith you ſhall have the place if you will; for he ſaith you are a notable Knave, very fit, and well qualified for the place, and you ſhall have it before any one.</hi> In concluſion, thanking his Lordſhip for his good will, I return'd this anſwer; <hi>Pray tell the Biſhop that there is one—Nicolſon, his own Name-ſake, his near Kinſman, his Brothers Son, Vicar of Wapley within a mile or two of Sadbury in Glouceſterſhire, who had his Wife with child, and his Maid Servant, and both brought-a-bed in his own Houſe; he is too very a Knave to be a Prieſt, but he would make a notable Knave to be an Apparitor: He is the Biſhops own fleſh and blood.</hi>
+               </p>
+               <p>And now whilſt I am ſpeaking of the Biſhop of <hi>Glouceſter,</hi> a paſſage comes to my mind of one of his Neighbours, who hearing one of the Biſhops Clergy praying for him in his prayer before the Sermon, (which was very uſual) as they went from the publick Place ask'd one of the Prieſts Servants <hi>why his Maſter pray'd for the Biſhop ſo often? He had more need</hi> (ſaid he) <hi>pray for the Family, for they are bad enough.</hi> This he ſpake becauſe the Biſhop had three Baſtards born in his houſe: But the Biſhop himſelf might be an honeſt man for all that. I ſhall ſay little to prejudice him in his Repu<g ref="char:EOLhyphen"/>tation, although he hath been my Adverſary as much as poſſibly he could, and ſo I expect he will be again: For he cauſed a tender-witted Alderman, Mr. <hi>W.</hi> to lay Treaſon to my charge for my Book, after I had given Engagements to
+<pb n="30" facs="tcp:56314:16"/> a Juſtice of the Peace of the City to anſwer it at the next Aſ<g ref="char:EOLhyphen"/>ſizes; and having got me out of the Liberties of the City, into another County, the Conſtables alſo purſuing me out of the Liberties without warrant, and the Captain of the Trained Band, who ſaid he had a note from the Biſhop for that purpoſe; who haled me by violence to priſon again, contrary to a courſe of Juſtice: When the King, Nobles, and Lord Mayor of <hi>London</hi> (having been in all their hands) had ſet me at Liberty. He alſo cauſed <hi>George Evans</hi> his Se<g ref="char:EOLhyphen"/>cretary (ſirnamed the Biſhops Ape) to follow me to <hi>Eveſham</hi> in <hi>Worceſterſhire,</hi> 18 miles, to arreſt me there; but I eſca<g ref="char:EOLhyphen"/>ping his hands, he fell a ſwearing ſo faſt, that <hi>Sam. Carver</hi> convicted him for ſwearing, before the Mayor of the Town, and made him pay ten groats, to the greate credit of his Ma<g ref="char:EOLhyphen"/>ſter; whom he alſo credited in like manner at <hi>Durſly,</hi> in proteſting, That all the Dogs, Pigs, Cats, Rats, Mice, Pleas and Lice in <hi>Durſly,</hi> were Presbyterians.</p>
+               <p>A Prieſt in his Sermon uſed this expreſſion, <hi>That when the Panaticks were exterminated, the Beasts of the field, and the Fowls, would ſing Hallelujahs, and the Stars would come down and dance the Canaries.</hi>
+               </p>
+               <p>Another Prieſt being in his Sermon, and ſeeing the Dogs together by the ears, call'd to his Neighbours, ſaying, <hi>Make a Ring, Neighbours, I'll lay a Wager on the little Dogs ſide.</hi>
+               </p>
+               <p>One coming to a publick Houſe to borrow a Lanthorn, the man who kept the houſe told him that he had never a Lanthorn at home: But now I call to mind, ſaid he, here are three <hi>Dark</hi> Lanthorns in the houſe, and brought him where three Prieſts lay drunk.</p>
+               <p>One <hi>Aleſgood,</hi> lately Prieſt at <hi>Aſhton Ingham</hi> in <hi>Here<g ref="char:EOLhyphen"/>fordshire,</hi> ſeven miles from <hi>Glouceſter,</hi> gave out words to this effect, That there was not an honeſt woman to his know<g ref="char:EOLhyphen"/>ledge in the Town of <hi>Ashton,</hi> nor in the Pariſh of <hi>
+                     <g ref="char:V">Ʋ</g>pton.</hi> Whereupon one Farmer <hi>Giles</hi> got him down, and would have gelded him, had not a Gentleman reſcu'd him out of his hands.</p>
+               <pb n="31" facs="tcp:56314:16"/>
+               <p>A Conſtable dwelling about <hi>Charing-Croſs,</hi> or at leaſt at that end of the City, [for I cann't exactly tell the place] ſeeing Light in a houſe juſtly ſuſpected for a Bawdy-houſe, takes two or three of his Neighbours with him, and goes and knocks at the door; the Maid comes to the door in the dark, and asks who is at the door? The Conſtable having told her who he was, and that he muſt come in, up ſhe goes again; and ſtaying ſomewhat long, at laſt comes down and lets in the Conſtable, who walking up ſtairs with his compa<g ref="char:EOLhyphen"/>ny, found a Gentlewoman in Bed; but turning the clothes down a little way, found that ſhe was in her clothes; and finding a Relique on the Bed, <hi>viz.</hi> a Cirſingle, went into another Room where there were two Prieſts in bed with their clothes on: and not being able to give any good ac<g ref="char:EOLhyphen"/>count of their being there, the Conſtable told them they muſt go to the <hi>Round Houſe;</hi> but they begged very earneſt<g ref="char:EOLhyphen"/>ly they might not go thither, for then they were quite un<g ref="char:EOLhyphen"/>done: whereupon the Conſtable told them that if each man would give a Noble to the Poor, they ſhould be excuſed; but both of them could make but half a Crown: At laſt, they both having two pair of Stockings on, each of them pull'd off a pair, and ſo they were diſmiſs'd A Juſtice of Peace afterwards hearing of it, queſtion'd the Conſtable, but how he came off I know not.</p>
+               <p>
+                  <hi>Thomas Cleaton,</hi> now drawing Beer at the Bell in <hi>Al<g ref="char:EOLhyphen"/>derſgate-ſtreet,</hi> formerly lived at the Three Cups, where a Parſon told him that he had a wife and five children at home, but his preſent condition was ſuch, that he wanted a wench, and that he would give him ten ſhillings to help him to one, putting five ſhillings into his hand; but he ſcorned his baſe motion, and onely made him ſpend three ſhillings of the money, giving him the other two again.</p>
+               <p>Mr. <hi>Hart,</hi> a Parſon in <hi>Northamptonſhire,</hi> having got a young woman with Child, ſends her away to <hi>London,</hi> and writes a Letter to one there to entertain her, for ſhe was his wife: But this Letter muſt not come from Mr. <hi>Hart,</hi> but
+<pb n="32" facs="tcp:56314:17"/> from one <hi>Gardner,</hi> who was gone to Sea. Well, the Crea<g ref="char:EOLhyphen"/>ture is entertained by the man to whom ſhe was ſent; and having money in her purſe, lay there until ſhe was brought-a-bed. But now <hi>Gardner</hi> is come from Sea, <hi>Hart</hi> makes to <hi>Gardner,</hi> telling him that if he will own ſuch a Letter, there was an hundred pounds for him; <hi>Gardner</hi> accepts on't, puts himſelf into the Life-Guard, and keeps her company. But one night coming home late, he ſaw a Cloak and Cirſingle hanging not far from the bed, and finds the Prieſt in bed with her again: <hi>Gardner</hi> falls a ſwearing at the Parſon, and will cut off his privy Members, and an hundred pounds ſhall not ſerve his turn now. The Prieſt gave him good words, and pretending that he muſt go to the houſe of office, he got away.</p>
+               <p>Mr. <hi>Jackſon</hi> of <hi>Kimham,</hi> two miles from <hi>Burford</hi> in <hi>Ox<g ref="char:EOLhyphen"/>fordſhire,</hi> coming to <hi>Burford</hi> drank ſo hard, that ſtanding to talk with a Gentleman, he ſpued upon him; and afterwards went into the Inn, and ſpued upon the Table as he leaned upon it; and going into the Court to call for his horſe, fell down, but the Hoſtler with much ado got him into the Hoſt<g ref="char:EOLhyphen"/>lery, where he lay until he had beſhit himſelf.</p>
+               <p>Mr. <hi>Rowles,</hi> one that lives within four or five miles of <hi>Glouceſter,</hi> who carries the Arms of <hi>Cambridge</hi> in his face, <hi>Lucem &amp; Pocula,</hi> Fire and Cups, being in <hi>Glouceſter</hi> at a Mer<g ref="char:EOLhyphen"/>cers ſhop, enquired how he might know <hi>Ralph Wallis;</hi> I have heard much of him, ſaid he, and I would fain ſee him. As ſoon as he had ſpoke the word, I came into the ſhop: Said the Mercer, This is <hi>Ralph Wallis:</hi> Mr. <hi>Rowles</hi> there<g ref="char:EOLhyphen"/>upon deſired me not to put him in my next Book among the Deans, Doctors, and Prebends: No, ſaid I, not I Sir, they will be aſhamed of your company: But ſaid I, you eat too much Ale: Ale, ſaid he! give me a cup of Sack, that which will bring a man into the ſame eſtate that <hi>Adam</hi> was in in Paradiſe. He is a frequenter of Alehouſes; and as ſome of of his Neighbours inform me, he was once foully miſtaken, for being drunk, and only letting down his Breeches, he ſhit
+<pb n="33" facs="tcp:56314:17"/> in his Drawers. But this was not ſo bad as his common fre<g ref="char:EOLhyphen"/>quenting of Bawdy-Houſes both at <hi>Burford</hi> and <hi>Shipton,</hi> be<g ref="char:EOLhyphen"/>fore he came to live in <hi>Glouceſterſhire.</hi>
+               </p>
+               <p>At a place called <hi>Lurgaſhal</hi> in <hi>Wiltſhire,</hi> (as I have been informed from very good hands) the People having ſung a Pſalm, expected the Prieſt would begin his Sermon; but ſtaying ſomewhat long, a Gentleman, one Mr. <hi>Poſſain,</hi> ſent to him to begin his Sermon; but the Meſſenger found him in the Pew, where he had beſhit himſelf, and was wiping his breech (as was conceived) with his Ser<g ref="char:EOLhyphen"/>mon-Notes; and in that condition would have got up into the Pulpit to have preached, but the people would not let him.</p>
+               <p>At <hi>Heydon</hi> a Chappel of Eaſe in the Pariſh of <hi>Staverton,</hi> four miles from <hi>Gloceſter,</hi> the Prieſt being in the Pulpit did ſo beſhit himſelf, that it ran down out of his breeches into the Pulpit; and after he came out of the Pulpit, he might have been tracked by it which way he went.</p>
+               <p>The Prieſt of <hi>Homelacy</hi> in <hi>Herefordſhire,</hi> having a Communion (as they call it) on the Lords day, went in the afternoon to a Chappel of Eaſe called <hi>Boulſon,</hi> to preach; but when he came there, he only went up into the Pulpit and ſo came down again, ſaying, The Pulpit ſtinks, and no more. But his Pariſhion<g ref="char:EOLhyphen"/>ers do vindicate the credit of the Pulpit, and alſo affirm that the Prieſt, having made himſelf drunk with the Wine that was left at the Sacrament, beſhit him<g ref="char:EOLhyphen"/>ſelf, and ſlander'd the Pulpit.</p>
+               <p>We will conclude with Parſon <hi>Laurence</hi> of <hi>Didmarton,</hi> who will be a Cartload himſelf; firſt for Swearing, I my ſelf having heard him ſwear many Oaths in a very ſhort time, upon a very ſmall occaſion. And once ſitting at the Table af<g ref="char:EOLhyphen"/>ter Dinner, in the preſence of his fellow-Miniſters, who were his only Compa<g ref="char:EOLhyphen"/>nions at that time, he ſwore ſo faſt that one of them reproved him ſharply. And for a Drunkard, match him and hang him; he was ſo drunk at <hi>Gloceſter,</hi> that he was not able to ſpeak a word, but ſwear; yet was ſo wiſe in that condition, that he could point with his hand, and make ſigns to the Hoſtler to carry him to bed: Vp the Hoſtler takes him on pick-pack; you may remember, Wife, you cried out, <hi>Throw him on the Dunghil, or lay him in the Gutter:</hi> But being laid on a Bed, I heard him ſwear Dam'im at the Hoſtler, when he pluck't off his Boots. And there he continued drinking on the morrow, and was all day drunk again. A Farmor told me, that he was once his bed-fellow at <hi>Tetbury,</hi> where the Parſon, being drunk, had ſo beſhit himſelf that his bed-fellow was fain to take his knife and cut off the tail of his ſhirt, and throw it in the fire; <hi>and there,</hi> ſaid he, <hi>it did fry like Greaſe.</hi> A leafe in quarto, would be too little to deſcribe his ſordid carriage, and uſurious grinding of ſuch as borrow Money of him.</p>
+               <p>
+                  <hi>Wiſe,</hi> I am afraid this laſt load has almoſt turn'd your ſtomack; and there<g ref="char:EOLhyphen"/>fore I'll drive it away to <hi>Tom Turd</hi>'s Pond, and there leave it.</p>
+               <p>
+                  <hi>Wife,</hi> I have many more ſuch fellows, and I could name the Chancellor of <hi>Worceſter</hi> and <hi>Hereford, Timothy Baldwin;</hi> who when one told him he could not receive the Sacrament at his Miniſters hand, he was ſo deboiſt a fellow; the Chancellor told him, he might receive it from a <hi>Yurk</hi> or an <hi>Infidel;</hi> nay, he might receive it from the hands of the <hi>Devil,</hi> if he would adminiſter it; for
+<pb n="34" facs="tcp:56314:18"/> (ſaid he) the Ordinance is the Ordinance ſtill. I could with Mr. <hi>Tombes</hi> were his Chaplain, till the Lord <hi>Chancellor</hi> returns again: But now I am ſpeaking of Chancellors, Wife, If all our Chancellors were <hi>Babers,</hi> and all our <hi>Prebends <g ref="char:V">Ʋ</g>iners,</hi> it would be more for their credit. Wife, I cannot yet tell that Biſhops name (But I hope I ſhall give you an account of it ſhortly) who entered one that was a <hi>Barber</hi> into <hi>Holy Orders;</hi> and being told that he had formerly been Arrainged for Sheep-ſtealing, he replied, <hi>I had rather ſee a Sheep-ſtealer in the Pulpit, than a Presbyterian.</hi>
+               </p>
+               <p>And now Wife, Let's compare theſe Porrige-Prieſts with our Ejected Mini<g ref="char:EOLhyphen"/>ſters, and ſee what a vaſt difference there is between them: The former guilty of all the afore-mentioned Abominations; the latter, free from all juſt ſuſpici<g ref="char:EOLhyphen"/>on of ſuch things, even in the Iudgment of their very Enemies. And if that Kiſs which the Great <hi>Conſtantine</hi> gave to the hollow of <hi>Paphnutius</hi>'s Eye, loſt for the ſake of Chriſt, be juſtly reckoned amongſt the Trophies of his honour; how illuſtrious would it render his Majeſty, both to the preſent and ſucceeding A<g ref="char:EOLhyphen"/>ges, to give Liberty to thoſe who are as Inſtruments in the hand of Chriſt to open eyes of the Blind!</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>But Husband, <hi>I hope all theſe Cartloads have no relation to the beſt of our honeſt Conformiſts.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>Yes Wife, they're all Brethren, Members of the Myſtical Body; theſe Swearing, Cheating, Ignorant, Drunken, Whoring Prieſts, are all their Brethren; as much as thoſe that both beſhit and piſs'd their Breeches, Pews, and Pulpits.</p>
+               <p>Why Wife, do you think the honeſt Conformiſts you ſpeak of, will diſown their Arch Spiritual Father <hi>Canterbury,</hi> their Swearing Father <hi>Lichfield</hi> and <hi>Coventry,</hi> or their Papiſtical Father <hi>Worceſter;</hi> and the reſt of that Mungrel Crew? They can never be true Sons of the Church, if they diſown theſe Fathers.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>But Husband, after all your Cartloads, what do you think of the Body of this Clergy?</p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>Why Wife, many of them, of the old Topers, are like the old Boots, and Shooes which we Coblers do Vamp; they have many of them new Soles, new Preferments, three or four Livings and Prebendaries, but the old Leather is ſtill the ſame: onely now they drink Sack, whereas Ale before would liquor the Boots very well. A Lady asked one of them ſome years ſince, <hi>Where they had all been during the time they were turned out of their Livings?</hi> He anſwered, <hi>We have lain among the Pots,</hi> (abuſing the Scripture.) To which the Lady anſwered, <hi>I thought ſo, by your Red Noſes.</hi> But indeed, Wife, there are but two ſmall Objecti<g ref="char:EOLhyphen"/>ons againſt them, two little Faults in our Clergy-men.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>What are thoſe two Exceptions, Husband?</p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>Why they can neither <hi>Preach</hi> nor <hi>Pray;</hi> otherwiſe they are as well qua<g ref="char:EOLhyphen"/>lified, both for <hi>Drinking</hi> and <hi>Swearing,</hi> (and ſome other Vertues, that you and I muſt not talk aloud of) as any that ever came out of the Popes Belly.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>Pray Husband, what do you think is the true reaſon why the People are ſo generally ſet againſt the Biſhops?</p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>Truly Wife, I'll tell thee; As they all ſee they do no good, and have no care of their Souls, ſo their buſineſs is to vex and torment the people under them;
+<pb n="35" facs="tcp:56314:18"/> by their Appariters ſummoning them to their Courts, that they cannot be quiet in their Callings, nor at their Ploughs. I am informed by ſuch as have heard it from thoſe that know it, That three thouſand at one time ſtood ſummoned at the Biſhop of <hi>Lincoln</hi>'s Court: Wife, this is one great reaſon of the miſerable poverty that is in every Country. I tell thee, Wife, if our Gracious King would but take theirs and the old Droans of Deans and Prebends Lands into his hands, to defray the Publick Charge of the Kingdom, the whole Body of the People would keep a <hi>Jubilee</hi> for it.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>Husband, let me ask you one queſtion more; What do you find is the rea<g ref="char:EOLhyphen"/>ſon why the Non-Conformiſts will not comply with the Biſhops?</p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>The reaſon is plain, becauſe they cannot ſay the old <hi>Mumpſimus,</hi> the Service-Book; which I have told you before is word by word the old Maſs-Book in another Tongue, one Pope making one part of it, and his Succeſſors the reſt: Now they can pray better than the Popes can teach them; but as for our Clergy-S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, if their Books ſhould be burnt, there muſt be no praying: And ſecondly, the Non-Conformiſts cann't ſwallow the Old Whores painted ſilly Ceremonies, becauſe by the Biſhops own Confeſſion they are not <hi>Written.</hi> So that their great ſin is, that they can <hi>Pray</hi> and <hi>Preach</hi> without an old mouldy Maſs-Book, and would worſhip as God commands them; which makes the people to be general<g ref="char:EOLhyphen"/>ly for them.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>I hope then, Husband, the King will give them their liberty to Preach, to ſatisfie his People.</p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>I will tell thee a true ſtory, Wife; for you know I read Hiſtories: In the Kingdom of <hi>Perſia,</hi> about the year 500. the Magitian-Prieſts (ſuch as ours) came to the King, and told him, that there was a voice heard in one of the Tem<g ref="char:EOLhyphen"/>ples from under ground, <hi>That if he gave liberty to the Chriſtians in his Kingdom, he would certainly be deſtroyed:</hi> Which the King believing, a wiſe Man went to him, and deſired him to go and hear the voice, and then to ſearch under ground if there were not a perſon there; which the King did, and found a Prieſt in a hollow place, which ſpake, and ſo the cheat was diſcovered. Iuſt ſuch an Oracle is the Prieſts counſel now. But—</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>Pray Husband stay there, I think you have ſaid enough for a Cobler.</p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>No, Wife, I have ſomething elſe to ſay yet; which is, That the Biſhops perſwade my King <hi>Charles</hi> the Government of the Church is laid upon his Shoul<g ref="char:EOLhyphen"/>ders; and that they will ſtudy the Truth, and he ſhall maintain it. But ſeriouſly Wife, if God the Father had ſeen that any Migiſtrate on Earth, or all the Angels in Heaven had been capable of ſo great a care and truſt, he had never laid it up<g ref="char:EOLhyphen"/>on the ſhoulders of his own Son: For the Prophet <hi>Iſaiah</hi> tells us, <hi>The Government ſhall be upon His Shoulders;</hi> and the Apoſtle tells us, <hi>We have one Law-giver</hi> (and but one) <hi>Chriſt Jeſus:</hi> So that if Chriſt Ieſus be that one Law-giver, then my King has no Power to make Laws for the Conſcience, to bind men to what form of Wonhip the Biſhops pleaſe. But what they are not able to make good by Scrip<g ref="char:EOLhyphen"/>ture, they would have my King make good by his Laws; and ſo make him their Sword-Bearer, which is none of his work, and ſo I would tell him, if I might have admiſſion to his preſence. But Kings and Coblers are no meet Companions.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>
+                  <hi>But Husband, I have heard you ſay, That the Miniſters of the Church of
+<pb n="36" facs="tcp:56314:19"/> England are not called according to Magna Charta: Pray how then are they called?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>Why Wife, (as the Pear-monger, when his Pears are green puts them into hot Horſe-dung to ripen them apace, ſo) firſt the Biſhop of the Dioceſs enters men into holy Orders; which holy horſe-dung Orders makes them ripen as faſt for the Miniſtry, as the Pears do for the Market. And this entring them into ho<g ref="char:EOLhyphen"/>ly Orders, makes them firſt Deacons, and then Prieſts, and ſo puts them into a capacity to become Cu—Rats, Vicars, or Parſons, as ſoon as they can get Li<g ref="char:EOLhyphen"/>vings: Which Livings were (formerly) ſome at the Popes diſpoſe, which in <hi>Harry</hi> the VIII's time fell to the King, and are generally now at the Lord Chancellors diſ<g ref="char:EOLhyphen"/>poſal; ſome were at the Abbots diſpoſal, which were given to the Senior Fellows at <hi>Oxford</hi> and <hi>Cambridge;</hi> ſome were at the diſpoſal of the Biſhop of the Dioceſs, and ſo continue ſtill. Now if my Lord Chancellor hath a Kinſman, or a Friend, for whom he hath a favour, then 'tis his <hi>Jure Divino.</hi> And uſually if the preſent Incumbent lie ſick, there are two or three, like Carrion Crows, are ready to ſeiz upon the Careaſs of the Living, attending the death of the ſick man: and many times, before the breath is out of his Body, put foot in Stirrup, ſpur, cut, and away they ride poſt, as faſt as they can; and he that the Lord Chancellor finds the beſt Schollar, able to decline the Latin word <hi>Bribo, Bribe-Aſs, Bribe-bravely,</hi> is well qualified, and <hi>ipſo facto</hi> inducted.</p>
+               <p>If the Biſhop of the Dioceſs hath a Kinſman, or a Contemporary, or a Daugh<g ref="char:EOLhyphen"/>ter; then pin the Daughter upon the Parſons ſleeve, and let them go together. If you are ignorant in this Trade, go to old <hi>Tomkins</hi> of <hi>Worceſter,</hi> he can inform you how to get Livings, a Prebendſhip, and ſeveral good Parſonages, provided always you have money, although as very a Dunce as himſelf; whoſe ſtock of Sermons (though but ſmall) are <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> put off without a form of Prayer: Indeed he tells the People they ſhall pray for ſuch and ſuch, but never prays himſelf for any.</p>
+               <p>If a man be the Senior Fellow of a houſe, although as very a Dunce as the Vice-Chancellor, (who is Dunce enough, witneſs his ſpeaking Latine to young Scholars, who ſay he often breaks <hi>Pritian</hi>'s pate; and witneſs that Cringing, Bowing, Hodg-podge, Pie-bald Worſhip, wherein I ſaw him ſo buſie an Actor when I was laſt at <hi>Oxford</hi> in the Houſe of <hi>RIMMON;</hi> and witneſs alſo the Diſcourſe he had with a <hi>Tanner,</hi> whoſe Parts he not being able to deal with, confeſt he admir'd that ſuch Parts ſhould be found in a man of his quality: And as the <hi>Tanner</hi> tann'd him, ſo I could as willingly cobble him, for his Worſhip that I ſaw in <hi>Oxford:</hi> But his Worſhip is as good as the Biſhop of <hi>Oxford,</hi> Dr. <hi>Blanford</hi>'s Divinity, who told <hi>William Gregory,</hi> when he demanded of him why he kept him Priſoner ſo long, <hi>That he puniſhed his Body to do his Soul good.</hi> I would knock my Aules in a poſt, and burn my Laſt, if I left him not as mute as the Quaker-Woman at <hi>Witney.</hi> But to return from this Digreſſion; if a very Dunce be Senior Fellow of a houſe) the firſt Living that falls is his, <hi>Jure Divino,</hi> as they account it. As is evident in <hi>Cox,</hi> late of <hi>Slimbridge,</hi> a Living worth 250 <hi>l. per annum.</hi>) who being Senior Fellow of <hi>Mandlin</hi> in <hi>Oxford,</hi> and ſo having that Living fallen into his hands, was fain to hire a Rat, becauſe he did not love the Trade of Preaching 'twas ſo tedious to him: And Dr. <hi>Diggle</hi> his Succeſſor, is as able for the work as <hi>Cox</hi> was; who tells the people before Sermon, Ye ought to pray for this and that, but cannot pray himſelf.</p>
+               <pb n="37" facs="tcp:56314:19"/>
+               <p>If the Lord of Manner have two Sons, he may make one of them a Prieſt, and a Parſonage will be a good Portion for a younger Brother. Or if he hath a Chamber-Maid who hath been his Servant divers years, the Prieſt muſt take her, and he ſhall have the Living for her Portion. A Parſon may buy the next Preſen<g ref="char:EOLhyphen"/>tation of the Patron; and if he have no Son that is capable of the place, yet he may have a Daughter, and though ſhe be a Tapſtreſs, or a Sempſtreſs, yet ſhe has right to make what Prieſt ſhe pleaſes Parſon of that Pariſh.</p>
+               <p>If a Papiſt be a Patron, he may preſent what Prieſt he pleaſes; So did the old Earl of <hi>Worceſter,</hi> who procured Holy Orders for the Clerk of his Iron-works; and ſent him to <hi>Woollaſton</hi> in <hi>Gloceſterſhire;</hi> where the Earl ſlit the Parſonage in two pieces; making his Clerk contented with fourty, and keeping fourſcore for himſelf. But 'tis conceived the Prieſt was of his Patrons Religion, and only read our Engliſh Maſs-Book, but never attempted to ſay Sermon in all his Life. The preſent Biſhop of <hi>Gloceſter</hi>'s laſt Predeceſſor (Dr. <hi>Goodman</hi>) a confeſt <hi>Papiſt,</hi> beſtowed a Stock of Holy Orders upon his old Servant <hi>Charles Harcott,</hi> who married the Clark of the Iron-work's Daughter, and drives a Service-Book Trade to this day.</p>
+               <p>The old Lord <hi>Windſor</hi> being <hi>Patrimus</hi> to the late Dr. <hi>Warmſtrey,</hi> at his Kirſning gave him the Parſonage of <hi>Hampton</hi> in <hi>Gloceſterſhire:</hi> So that the Doctor had a Call <hi>e Cunabulis,</hi> from his Cradle, And ſuch are the Calls to the Miniſtry of the Church of <hi>England;</hi> which are <hi>Romano more,</hi> after the manner of the Church of <hi>Rome.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>
+                  <hi>But</hi> Husband, <hi>how are Miniſters called according to</hi> Magna Charta?</p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>Wife, The leaſt Officer in the Church was not to be made choice of without Prayer; though it were but a Deacon, which was to look after the Poor. When <hi>Judas</hi> fell by Transgreſſion, the Church went to Prayer, and caſt Lots, and the Lot fell on <hi>Matthias:</hi> And ſo when they had faſted and prayed, they laid hands on St. <hi>Paul</hi> and <hi>Barnabas,</hi> and ſent them forth: And though <hi>Paul</hi> had an extraordinary Call, he went not forth till the Church ſent him away with Faſting and Prayer. But Wife I can give you a Book whoſe buſineſs it is to treat of the Diſcipline of the Churches of the New Teſtament, which will ſave me a great Labour.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>
+                  <hi>But</hi> Husband <hi>that Government wont conſiſt with theſe times?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>Wife, Muſt the will of Chriſt ſubmit to the times, or the times ſubmit to the will of Chriſt? <hi>I think I have ſtitch'd you there, Wife:</hi> And is not this the ground of all our preſent Differences? For the Eyes of the Nation being ſo much opened by the preaching of the Goſpel theſe late years, the Worſhip and Clergy of the Church of <hi>England</hi> are rendred contemptible in the Eyes of the Common People: As may appear by One who coming into the Cathedral of <hi>Gloceſter,</hi> with two of his Companions; and hearing the Organs play, fell a Dancing, ſaying, <hi>Come, let's Dance, here's Good Muſick:</hi> And when the Or<g ref="char:EOLhyphen"/>gans ſtood ſtill, <hi>Play on Good Fellows,</hi> ſaid he, <hi>I like your Muſick well, 'tis good Muſick.</hi> And they have oftentimes been prodigiouſly diſturbed in their Wor<g ref="char:EOLhyphen"/>ſhip, by Hens, Magpies, Owles, Cocks, Foxes, Piggs, Rats, and Birds; concerning each of which, take a relation as followeth.</p>
+               <p>I was told in the County of <hi>Somerſet,</hi> that a Hen coming into the publick
+<pb n="38" facs="tcp:56314:20"/> Place, flew upon the <hi>Common-Prayer Book</hi> in the time of their Devis'd Wor<g ref="char:EOLhyphen"/>ſhip.</p>
+               <p>At <hi>Wilby</hi> in <hi>Northamptonſhire,</hi> a Hen flew into the Publick Place, and ſat down checkling upon the <hi>Common-Prayer Book, And ſhit upon it, and flew away again: And the next Lords Day doing the like again, ſhe there loſt her life.</hi>
+               </p>
+               <p>At <hi>Norwich</hi> the Dean being preaching, and among many other things utter<g ref="char:EOLhyphen"/>ing theſe words, <hi>That ſome men made Prayers of an Ell-long, which were of no Di<g ref="char:EOLhyphen"/>vine Inſtitution;</hi> An Owl flew over his head, and hem'd him up with a note of Admitation; crying, <hi>Hoo! hoo! hoo!</hi>
+               </p>
+               <p>The Dean of <hi>Hereford</hi> being in his Sermon, and having hang'd up his Cano<g ref="char:EOLhyphen"/>nical Cap upon a Pin in the Pulpit, a Magpie flew into the Pulpit, and never gave over Frisking and Whisking, till he had thrown it down, and afterwards came and ſat down by him, and he civily put him away with his hand.</p>
+               <p>Another Magpie came into the Publick place, with red Stockins on, and a red Collar about his Neck, and ſat down by the Prieſt; who was alſo in his red Hood, reading Devis'd Service.</p>
+               <p>
+                  <hi>Richard Stevens</hi> of <hi>Nurent,</hi> having been at a Cock-fighting at <hi>Glouceſter,</hi> and go<g ref="char:EOLhyphen"/>ing into the Cathedral with the Cocks in a Bag upon his arm, the Singing-men (being at their Worſhip) invited him into the Chore; and when the Chori<g ref="char:EOLhyphen"/>ſters began to ſing, his Cocks began to Crow: But which Service was moſt acceptable, the Cocks or the Coxcombs, I leave to better Iudgments to deter<g ref="char:EOLhyphen"/>mine.</p>
+               <p>I was told by an honeſt Quaker, That one Parſon <hi>Bomfield</hi> near <hi>Yarmouth,</hi> going to Dine with a Friend of his in the next Village, ſtole a Cock by the way, and put it in his Breeches; and that the Cock fell a crowing in the Parſons Breeches, as he ſat at Dinner with his Friend.</p>
+               <p>At <hi>Norwich,</hi> a Fox came into the Publick Place in the time of their Worſhip, probably to find ſome Prey there; but ſeeing they were only Wolves in Sheeps cloathing, he departed; and the like he did at <hi>Glouceſter.</hi>
+               </p>
+               <p>Wife, You know what Goodwife <hi>Edwards</hi> told you about her Sow, That ha<g ref="char:EOLhyphen"/>ving been admoniſhed to keep her Sow at home, ſhe could not for her life when the Bell toll'd, but away would the Sow run to their Worſhip.</p>
+               <p>Mr. <hi>Marley,</hi> Preaching at <hi>Norwich</hi> upon this Text, <hi>Behold an</hi> Iſraelite <hi>in<g ref="char:EOLhyphen"/>deed, in whom there is no guilt;</hi> and ſaying the Conformiſts were the true <hi>Iſra<g ref="char:EOLhyphen"/>elites,</hi> at that word, a Sow came into Publick Place; and ſtanding before the Pulpit, grunted out <hi>Woogh! woogh! woogh!</hi> whereupon the Parſon repeated his Sentence again, and the Sow replied in the like manner; for which he is by the Inhabitants thereabouts, <hi>Surnamed Hog-Marley.</hi>
+               </p>
+               <p>Two Pigs coming into the Cathedral of <hi>Norwich</hi> near the <hi>Eagle,</hi> in the time of Worſhip, they endeavoured to drive them away, but the Pigs would not go; and ſo they were forced to carry them out. And their Owner being warned to keep them at home, ſhut theminto a Yard; but the Pigs, leaping over the Pales (which were as high as a Dog could ordinarily leap over) ran to the Cathe<g ref="char:EOLhyphen"/>dral the ſecond time in the time of Worſhip; and were again fain to be carried out. And the Owner of the Pigs being again warned and threatned, was fain to kill them, not knowing how to keep them at <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <hi>Theſe were the firſt
+<pb n="39" facs="tcp:56314:20"/> that ever ſuffered Martyrdom, for coming to hear Common-Prayer.</hi>
+               </p>
+               <p>I think, Wife, 'tis needleſs to mention the Rats that eat the Leather off of the Organs at <hi>Glouceſter,</hi> and made the Common-Prayer go down without Muſick for almoſt a quarter of a year together, becauſe the Church was ſo indulgent to<g ref="char:EOLhyphen"/>wards them, that they were never Excommunicated.</p>
+               <p>Wife, I am ſure you know Dr. <hi>Horwood</hi> our Neighbour; Mr. <hi>Jones,</hi> formerly of <hi>Eaſton-gray</hi> in <hi>Willtſhire,</hi> told me the following ſtory of him: <hi>That about the beginning of the late Troubles, Dr.</hi> Horwood <hi>being preaching at</hi> Maries <hi>in</hi> Oxford, <hi>and in his Sermon blaming the Ruſticity of thoſe that were againſt the Biſhops, and magnifying the then Government of the Church, a Bird ſat upon the Canopy of the Pulpit, and ſhit in his mouth; or rather</hi> (ſaid Mr. <hi>Jones) upon the corner of his Cheek, which ran down into his Mouth: I and</hi> Dodderige (ſaid he) <hi>ſat under the Pulpit, and ſaw him take his Handkerchief and wipe it out of his mouth.</hi> Which proved very Ominous, for ſuddenly after the Biſhops had a fall.</p>
+               <p>Now if (as <hi>Tertullian</hi> tells us) not a hair from a Saints head, nor a briſtle from a Sows back, falls to the ground, without the will and pleaſure of God: Surely then theſe things afore-mentioned ought not to paſs unrainded by us.</p>
+               <p>But Wife, I formerly made you a Promiſe to ſhew you wherein a Cobler was more honourable than a Lord Biſhop, and I think I had beſt perform it now.</p>
+               <p>A Cobler is <hi>ab antiquo,</hi> ever ſince Shooes were made of Leather, and he is a Gentleman of the Gentle Craft.</p>
+               <p>The LORD Biſhop is but from <hi>William</hi> the Conqueror; and their honour was <hi>damnatus antequam natus,</hi> condemn'd before <g ref="char:punc">▪</g>twas born, as they profeſs them<g ref="char:EOLhyphen"/>ſelves Miniſters. And a Magiſtrate profeſſing himſelf to be Chriſts Subſtitute, can<g ref="char:EOLhyphen"/>not confer true honour, where his Maſter has prophibited it. His honour muſt be <hi>a natura, ex merito,</hi> or <hi>ab officio.</hi> From nature it cannot be, for ſo every man is as good as he; and as for their deſert, were it not for the Kings favour, the Mul<g ref="char:EOLhyphen"/>titude would do by them, as the Prentices did by the Whores in <hi>Moor-fields,</hi> and ſet them up againſt the Walls for Dogs to p——at. Nor can their honour ariſe from their Office, as Prelates, which is to perſecute; for ſo they are Whelps of old Lilly, that Bitch-Whore, and ſome of the firſt Litter; the Devil was their Sire, and they are as like him as ever they can look, they have Dad's own Noſe; from him they learn to perſecute, like <hi>Nimrod.</hi>
+               </p>
+               <p>The Cobler lives by his honeſt labour, and ſeeks not to be burdenſom to his Brethren<g ref="char:punc">▪</g> and part of his Livelihood is by paring of old Shooes.</p>
+               <p>The Lord Biſhop is much like that Hog, that, when ſome Children were eating Milk out of a Diſh that ſtood upon a Stool, thruſt his Snowt into the Diſh, and drank up all; not regarding the Children, who cryed, <hi>Take a Poon, Pig, take a Poon:</hi> So theſe hungry Hogs, though they have hundreds, nay thouſands <hi>per annum,</hi> muſt have <hi>Procurations, Synodals,</hi> and <hi>Pentecoſtals</hi> from their poor Bre<g ref="char:EOLhyphen"/>thren<g ref="char:punc">▪</g> Procurations to bear their Charges when they ride a Vexation, which was decreed by Pope <hi>Boniface</hi> and other Popes. Synodals had their riſe from the Offerings which were brought at the Dedication of Churches. The Pente<g ref="char:EOLhyphen"/>coſtals are Pentecoſt-Farthings, ariſing from the Oblations which were brought by the Parents of ſuch Children as were baptized; which was then onely at <hi>Whitſomide;</hi> as that great Antiquary Mr. <hi>John Stevens</hi> in his Book <hi>de Procurat.</hi>
+                  <pb n="40" facs="tcp:56314:21"/> ſhews. All which are as baſe as (to uſe the Country Proverb) <hi>the parings of the Divils <gap reason="illegible" resp="#UOM" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap>.</hi>
+               </p>
+               <p>The Cobler is always mending, and making better.</p>
+               <p>The Lord Biſhop is always marring, and making worſe.</p>
+               <p>The Cobler endeavours to ſet men upright.</p>
+               <p>The Lord Biſhop turns them aſide to Superſtitious Vanities.</p>
+               <p>The Cobler hath more Love and Honour in his Country, than the Lord Bi<g ref="char:EOLhyphen"/>ſhop: <hi>When</hi> Ralph <hi>the Cobler comes to our Town, pray ſend him to our houſe,</hi> ſays the Countryman: But when the Lord Biſhop goes a Vexation, they never ſay <hi>Pray ſend Him to our Town.</hi>
+               </p>
+               <p>The Cobler will be in Requeſt while Men are born with Feet.</p>
+               <p>The Lord Biſhop, with the whole Litter of <hi>Romiſh Whelps,</hi> are already quite out of requeſt with the generality of the <hi>NATION.</hi>
+               </p>
+               <p>And for true Spiritual Wiſdom and Learning: I may ſend the beſt of them to my Brother <hi>How</hi> the <hi>Cobler.</hi> Vpon whoſe Book, Intituled <hi>The Sufficiency of the Spirits teaching,</hi> One long ſince wrote the following Verſes:</p>
+               <lg>
+                  <l>What <hi>How!</hi> How now! Hath <hi>How</hi> ſuch Learning found,</l>
+                  <l>To throw Arts Curious Image to the Ground!</l>
+                  <l>
+                     <hi>Oxford</hi> and <hi>Cambridge</hi> may their Glory now</l>
+                  <l>Vail to a Cobler, if they knew but <hi>How<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+                  <l>Though big with Art, they cannot over-top</l>
+                  <l>The Spirits Teaching in a Coblers Shop.</l>
+                  <l>Reader, if thou a humane Artiſt be,</l>
+                  <l>Let Humane Learning be no Judge for thee;</l>
+                  <l>But leave thy Arts, and try this Coblers End.</l>
+                  <l>And ſee if it be by the Spirit penn'd.</l>
+                  <l>Mean time adieu, ye Arts and Artiſts all,</l>
+                  <l>The Spirits Teaching may attend the Aull:</l>
+                  <l>And thou brave Cobler, Blow another Blaſt</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>pon their Learning, though thou Blow thy Laſt.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>ANd now Wife, I have made this Piece ready for the Preſs, I muſt get you to go to Madam <hi>Bennet</hi>'s, and get a Lady or two of hers to go with you to my Lord of <hi>Canterbury</hi>'s to get it Licenſed.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>
+                  <hi>Pray Husband don't ask me to do ſuch a thing: I'll hear a better Report of my Lady</hi> Bennet, <hi>and my Lord of</hi> Canterbury <hi>too, before I'll go near either of them. Licenſe it your ſelf if you will.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Husb.</speaker>
+               <p>Why then, Wife, ſince you are ſo coy of your Credit, I'll e'en do it my ſelf, and ſave you a labour.</p>
+            </sp>
+         </div>
+         <div type="imprimatur">
+            <p>PErlegi hunc Tractatum cui titulus, <hi>Room for the Cobler of</hi> Gloucester <hi>and his Wife;</hi> In quo nihil reperio veritati, aut malis m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ribus contrarium: Imprimatur.</p>
+            <closer>
+               <signed>Ralph Wallis.</signed>
+            </closer>
+            <pb facs="tcp:56314:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
